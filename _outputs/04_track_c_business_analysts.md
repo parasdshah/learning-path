@@ -3,8 +3,8 @@
 > **Track Colour**: 🟨 Yellow  
 > **Target Audience**: Business analysts, product owners, and requirements engineers who need to scope AI features, evaluate AI feasibility, write AI-ready requirements, and bridge technical/business stakeholders.  
 > **Focus**: Thinking in AI, making informed decisions — NO coding required.  
-> **Duration**: 10 weeks (4–6 hrs/week) | **Total Hours**: ~50 hours  
-> **Free Content**: ~75%
+> **Duration**: 10 weeks (4–6 hrs/week) | **Total Hours**: ~61 hours  
+> **Free Content**: ~87% by learning-hours
 
 ---
 

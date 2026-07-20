@@ -9,7 +9,7 @@
 
 | Dimension | Track A (Developers) | Track D (AI/ML Developers) |
 |-----------|---------------------|---------------------------|
-| **End Goal** | "I can build anything 3× faster with AI tools" | "I can design, train, deploy, and monitor AI systems in production" |
+| **End Goal** | "I use AI coding tools to ship faster with less toil" | "I can design, train, deploy, and monitor AI systems in production" |
 | **Relationship to AI** | **Consumer** of AI tools | **Builder** of AI systems |
 | **AI Models** | Uses pre-trained models via tools (Copilot, Claude Code) | Trains, fine-tunes, and deploys models |
 | **Prompt Engineering** | Crafting prompts for coding assistants | Designing system prompts for LLM APIs in production apps |

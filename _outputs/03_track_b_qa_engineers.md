@@ -3,8 +3,8 @@
 > **Track Colour**: 🟩 Green  
 > **Target Audience**: QA engineers (manual, automation, SDET) who need to test AI-powered features, validate LLM outputs, and evolve their testing strategy for AI-era software.  
 > **Focus**: Breaking AI systems intelligently — NOT building ML models.  
-> **Duration**: 12 weeks (4–6 hrs/week) | **Total Hours**: ~60 hours  
-> **Free Content**: ~62%
+> **Duration**: 12 weeks (4–6 hrs/week) | **Total Hours**: ~66 hours  
+> **Free Content**: ~50% by learning-hours ⚠️ (below the 60% target — see note in the summary table)
 
 ---
 
@@ -406,4 +406,6 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 | 3.5 | Production AI Monitoring | Evidently AI | 2 hr | Free | 3 |
 | 3.6 | AI Test Strategy Creation | Self-study | 4 hr | Free | 3 |
 
-**Track B Total**: ~66 hours | **Free Content**: ~62% | **Paid Content**: 3 Udemy courses (~₹1,500–2,400 / $30–45 total)
+**Track B Total**: ~66 hours | **Free Content**: ~50% | **Paid Content**: 3 Udemy courses (~₹1,500–2,400 / $30–45 total)
+
+> ⚠️ **Below the 60% free-by-hours target.** The three Udemy courses account for ~33 of the ~66 hours. By *module count* the track is ~79% free (11 of 14), but by learner *time* it is ~50%. To clear 60% by hours, consolidate the two overlapping QA-automation Udemy courses (2.2 *DeepEval/RAGAS* and 3.3 *GenAI & AI Agents for QA*) into one, or add free hours.

@@ -4,7 +4,7 @@
 > **Target Audience**: Developers who work on existing/legacy codebases and need to use AI agents for modernisation, upgrades, and maintenance.  
 > **Prerequisite**: Completion of Track A Tiers 1–3  
 > **Duration**: 4 weeks (4–6 hrs/week) | **Total Hours**: ~24 hours  
-> **Free Content**: ~85%
+> **Free Content**: 100% (no paid courses in this tier)
 
 ---
 
@@ -255,4 +255,4 @@ Take a **real legacy module** from an internal codebase and complete the followi
 
 **Tier 3B Total**: ~24 hours | **Free Content**: 100%
 
-**Track A Grand Total (Tiers 1–3B)**: ~77 hours | **Free Content**: ~83% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)
+**Track A Grand Total (Tiers 1–3B)**: ~77 hours | **Free Content**: ~71% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)

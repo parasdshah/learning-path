@@ -34,7 +34,8 @@
 ═══════════════════════════════════════════════════════════
 
 WHY THIS MATTERS
-• AI-skilled teams deliver 30%+ faster. This training makes 
+• AI fluency is fast becoming a baseline engineering skill.
+  This training builds it deliberately, and makes 
   your team more productive, not less.
 • This is a strategic investment with measurable ROI.
 

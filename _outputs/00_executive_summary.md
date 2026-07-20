@@ -8,7 +8,7 @@
 
 ## Programme Overview
 
-This document presents a comprehensive AI upskilling programme designed to rapidly build AI literacy and applied AI skills across four professional roles. The programme is **100% self-paced**, **budget-friendly** (≥60% free content per track), and structured for enterprise-scale deployment.
+This document presents a comprehensive AI upskilling programme designed to rapidly build AI literacy and applied AI skills across four professional roles. The programme is **100% self-paced**, **budget-friendly** (mostly free courses and official docs; only 8 paid Udemy courses across all four tracks), and structured for enterprise-scale deployment.
 
 ### Four Parallel Learning Tracks
 
@@ -23,7 +23,7 @@ This document presents a comprehensive AI upskilling programme designed to rapid
 
 - **Zero Course Overlap**: No course appears in more than one track. Shared topics (AI fundamentals, prompt engineering) use different, role-specific courses per track.
 - **Track A ≠ Track D**: Developers *use* AI tools to code faster. AI/ML Developers *build* AI systems. Clear boundary enforced.
-- **≥60% Free Content**: Every track exceeds the 60% free content threshold. Overall programme is ~78% free.
+- **Mostly Free Content**: By learning-hours the overall programme is **~73% free**. Tracks C (~87%), D (~79%) and A (~71%, incl. Tier 3B) clear the 60% target; **Track B is ~50%** because its three Udemy courses are long — consolidating the two overlapping QA-automation courses (Track B modules 2.2 and 3.3) would lift it above 60%.
 - **Self-Paced with Structure**: Suggested 4–6 hrs/week cadence with milestone checkpoints, but fully flexible.
 - **Practical over Theoretical**: Hands-on projects, real codebases (Track A Tier 3B), and cross-functional capstones.
 
@@ -69,23 +69,22 @@ The Tier 3 capstone brings together one person from each track to collaborate on
 | Large (500) | 500 | ₹500,000–800,000 (~$6,000–9,700) |
 
 ### ROI Perspective
-At a conservative 15% productivity improvement for developers using AI tools, the training investment is recovered within **1 week** of AI-assisted work.
+The course cost per learner (₹500–2,400) is small relative to a loaded salary, so even a modest, sustained productivity gain would cover it. Rather than assert a headline multiplier, the programme **measures** the actual productivity and quality delta (see [11_time_budget_summary.md](11_time_budget_summary.md) and the KPI dashboard) — independent evidence on AI-assisted development is mixed and highly task-dependent.
 
 ---
 
 ## Platform Distribution
 
-Content curated from 12 platforms, prioritising free resources:
+After the July 2026 link overhaul, content is dominated by **official documentation and standards** (the most durable, verifiable sources) alongside free courses; paid content is confined to Udemy.
 
-| Priority | Platform | Usage |
-|----------|----------|-------|
-| 1 | YouTube | ~40% of content (free) |
-| 2 | Udemy | ~25% of content (₹399–799 each) |
-| 3 | Coursera (audit) | ~15% of content (free audit) |
-| 4 | freeCodeCamp | ~5% (free) |
-| 5 | Kaggle Learn | ~3% (free) |
-| 6 | Hugging Face Learn | ~3% (free) |
-| 7–12 | Microsoft Learn, Google AI, edX, Anthropic Skilljar, Alison, LinkedIn Learning | ~9% combined |
+| Bucket | Platforms | Share (approx, by module) | Cost |
+|--------|-----------|---------------------------|------|
+| Official docs & standards | GitHub, Anthropic, Google, Microsoft Learn, OWASP, MLflow, agents.md, NVIDIA, Evidently, Applitools, Promptfoo, Hugging Face | ~40% | Free |
+| Free courses | Coursera (audit), edX (audit), freeCodeCamp, Kaggle Learn, Hugging Face Learn, DeepLearning.AI, Alison | ~30% | Free |
+| YouTube (specific videos) | 3Blue1Brown, IBM Technology, Google Cloud, freeCodeCamp | ~10% | Free |
+| Vendor blogs / analyst / case studies | GitHub Blog, AWS, HBR, a16z, CodeScene, DORA | ~8% | Free |
+| Self-study modules | Internal exercises / templates | ~4% | Free |
+| **Udemy (paid)** | 8 courses across the four tracks | ~8% | ₹399–799 each |
 
 ---
 

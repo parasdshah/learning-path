@@ -3,8 +3,8 @@
 > **Track Colour**: 🟦 Blue  
 > **Target Audience**: Software developers (frontend, backend, full-stack, mobile) who will use AI-powered coding tools to accelerate their daily development workflow.  
 > **Focus**: Tool mastery, NOT theory. Using AI agents and copilots as force multipliers.  
-> **Duration**: 16 weeks (4–6 hrs/week) | **Total Hours**: ~80 hours  
-> **Free Content**: ~65%
+> **Duration**: 16 weeks (4–6 hrs/week) | **Total Hours**: ~77 hours  
+> **Free Content**: ~71% by learning-hours (full track incl. Tier 3B; Tiers 1–3 alone ~59%)
 
 ---
 
@@ -457,6 +457,6 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 | 3.4 | ROI of AI Dev (DORA) | DORA / Google Cloud | 2 hr | Free | 3 |
 | 3.5 | Team AI Coding Standards | Self-study | 4 hr | Free | 3 |
 
-**Total (Tiers 1–3)**: ~53 hours | **Free Content**: ~78% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)
+**Total (Tiers 1–3)**: ~53 hours | **Free Content**: ~59% (Tiers 1–3); ~71% incl. Tier 3B | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)
 
 > **Note**: Tier 3B (Brownfield & Legacy Modernisation) is covered in a separate document: `02a_track_a_tier3b_brownfield.md`

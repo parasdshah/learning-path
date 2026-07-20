@@ -3,8 +3,8 @@
 > **Track Colour**: 🟥 Red  
 > **Target Audience**: Developers specialising in building AI/ML systems, training models, deploying ML pipelines, and creating AI-native applications.  
 > **Focus**: Deep technical — designing, training, deploying, and monitoring AI systems in production.  
-> **Duration**: 16 weeks (5–8 hrs/week) | **Total Hours**: ~100 hours  
-> **Free Content**: ~68%
+> **Duration**: 16 weeks (5–8 hrs/week) | **Total Hours**: ~107 hours  
+> **Free Content**: ~79% by learning-hours
 
 ---
 
@@ -460,6 +460,6 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 | 3.6 | Ultra-Scale Playbook (GPU/Scaling) | Hugging Face | 4 hr | Free | 3 |
 | 3.7 | ML in Production (MLOps Course 1) | Coursera | 6 hr | Free (audit) | 3 |
 
-**Track D Total**: ~107 hours* | **Free Content**: ~82% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)
+**Track D Total**: ~107 hours* | **Free Content**: ~79% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)
 
 *Note: PyTorch course is 25 hrs total but only ~12 hrs recommended for Tier 1; remaining chapters serve as reference material.

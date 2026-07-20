@@ -12,7 +12,7 @@
 | **Hours per Week** | 4–6 | 4–6 | 4–6 | 5–8 |
 | **Total Learning Hours** | ~77 | ~66 | ~61 | ~107 |
 | **Estimated Cost per Learner** | ₹1,000–1,600 / $20–30 | ₹1,500–2,400 / $30–45 | ₹500–800 / $10–15 | ₹1,000–1,600 / $20–30 |
-| **Free Content Percentage** | ~83% | ~62% | ~87% | ~82% |
+| **Free Content % (by learning-hours)** | ~71% | ~50% ⚠️ | ~87% | ~79% |
 | **Number of Paid Courses** | 2 (Udemy) | 3 (Udemy) | 1 (Udemy) | 2 (Udemy) |
 | **Number of Free Courses** | 15+ modules | 11+ modules | 13+ modules | 13+ modules |
 
@@ -26,7 +26,7 @@
 |--------|----------|------|
 | GitHub Copilot Beginner to Pro | Udemy | ₹499–799 |
 | GitHub Copilot Complete Guide 2026 | Udemy | ₹499–799 |
-| All YouTube, freeCodeCamp, Microsoft Learn, Anthropic Skilljar content | Free platforms | ₹0 |
+| All official docs (GitHub/Anthropic/OWASP/agents.md/DORA), YouTube, freeCodeCamp, Microsoft Learn, Google Codelabs, Anthropic Academy content | Free platforms | ₹0 |
 | **Total per learner** | | **₹998–1,598 / $20–30** |
 
 ### Track B — QA Engineers
@@ -44,7 +44,7 @@
 | Course | Platform | Cost |
 |--------|----------|------|
 | ChatGPT & AI Tools for BAs | Udemy | ₹499–799 |
-| All Coursera (audit), YouTube, edX (audit), LinkedIn Learning, Alison | Free platforms | ₹0 |
+| All Coursera (audit), edX (audit), Google Cloud, Microsoft Learn, HBR, a16z, Alison content | Free platforms | ₹0 |
 | **Total per learner** | | **₹499–799 / $10–15** |
 
 ### Track D — AI/ML Developers
@@ -121,35 +121,37 @@ Assuming Udemy sale prices (courses are frequently on sale at ₹399–799 / $9.
 
 ## Platform Usage Distribution
 
-| Platform | Tracks Using | # Courses | Cost | % of Total Content |
-|----------|-------------|-----------|------|--------------------|
-| **YouTube** | A, B, C, D | 25+ modules | Free | ~40% |
-| **Udemy** | A, B, C, D | 8 courses | ₹399–799 each | ~25% |
-| **Coursera** (audit) | B, C, D | 5 courses | Free (audit) | ~15% |
-| **freeCodeCamp** | A, D | 3 courses | Free | ~5% |
-| **Kaggle Learn** | D | 4 micro-courses | Free | ~3% |
-| **Hugging Face Learn** | D | 1 course (multi-unit) | Free | ~3% |
-| **Microsoft Learn** | A | 1 module | Free | ~2% |
-| **Google AI / ML** | B, D | 2 resources | Free | ~2% |
-| **edX** (audit) | C | 1 course | Free (audit) | ~2% |
-| **Anthropic Skilljar** | A | 1 course | Free | ~1% |
-| **LinkedIn Learning** | C | 1 course (if licence) | Org licence | ~1% |
-| **Alison** | C | 1 course | Free | ~1% |
+> Reflects the July 2026 link overhaul: most modules now point to official documentation/standards and free courses; Udemy is the only paid platform.
+
+| Bucket / Platform | Tracks Using | Cost | Share (approx) |
+|-------------------|-------------|------|----------------|
+| **Official docs & standards** (GitHub, Anthropic, Google, MS Learn, OWASP, MLflow, agents.md, NVIDIA, Evidently, Applitools, Promptfoo, HF) | A, B, C, D | Free | ~40% |
+| **Free courses** (Coursera audit, edX, freeCodeCamp, Kaggle, HF Learn, DeepLearning.AI, Alison) | A, B, C, D | Free | ~30% |
+| **YouTube** (specific videos: 3Blue1Brown, IBM Technology, Google Cloud, freeCodeCamp) | A, B, D | Free | ~10% |
+| **Vendor blogs / analyst / case studies** (GitHub Blog, AWS, HBR, a16z, CodeScene, DORA) | A, C | Free | ~8% |
+| **Self-study modules** | A, B, C | Free | ~4% |
+| **Udemy (paid)** | A, B, C, D | ₹399–799 each | ~8% |
 
 ---
 
 ## ROI Perspective
 
-### Conservative Estimate (Developer Track A)
+> **We deliberately avoid publishing a headline productivity multiplier.** Independent evidence on AI-assisted development is mixed — gains are real for some tasks but vary widely by task, seniority, and codebase, and at least one 2025 study (METR) found AI tools *slowed* experienced developers on complex tasks. Rather than assert a number, the programme **measures** impact.
+
+### How we will measure ROI (not assume it)
+
+| Input | How it's captured |
+|-------|-------------------|
+| Baseline task time | Tracked before AI adoption (Tier 2 mini-project + a normal work sample) |
+| AI-assisted task time | Tracked during/after the Tier 2 project and the Tier 3B case study |
+| Quality delta | Defect rate, review rework, and security findings on AI-assisted vs manual work |
+| Adoption | % of eligible work where AI tools are actually used weekly (see KPI dashboard) |
+
+### Cost side (known, not estimated)
 
 | Metric | Value |
 |--------|-------|
-| Average developer salary (India) | ₹12–20 LPA |
-| Annual working hours | ~2,000 hrs |
-| Time saved with AI tools (conservative 15%) | ~300 hrs/year |
-| Value of time saved per developer | ₹1.8–3.0 LPA |
-| Training cost per developer | ₹1,000–1,600 |
-| **ROI ratio** | **~1,000:1 to 3,000:1** |
-| **Break-even** | **< 1 week of AI-assisted work** |
+| Training cost per learner | ₹500–2,400 depending on track |
+| AI tool subscriptions (separate budget line) | e.g. GitHub Copilot ~$10–19/user/mo; Claude ~$20/mo |
 
-> Even with a 5% productivity improvement (extremely conservative), the training cost is recovered within the first month.
+**Break-even framing**: the *course* cost (₹500–2,400) is trivially small relative to a loaded salary — a single-digit-percent sustained productivity gain would cover it. The open question the programme answers *with data* is whether that gain materialises for your teams and tasks. Report actuals in the quarterly review, not projections.

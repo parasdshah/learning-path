@@ -212,7 +212,7 @@ mlflow ui  # Start the tracking UI
 
 4. **"NIST AI Risk Management Framework (AI RMF 1.0)"** — NIST
    - The US standard for AI risk management
-   - https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-ai
+   - https://www.nist.gov/itl/ai-risk-management-framework
 
 5. **"EU AI Act: A Quick Guide"** — European Commission
    - Official summary of the EU AI regulation

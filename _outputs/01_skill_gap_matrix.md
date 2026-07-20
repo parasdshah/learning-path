@@ -60,7 +60,7 @@
 ## 2. Target AI Competency Profiles
 
 ### 🟦 Developer (Track A) — Target State
-> *"I can build anything 3× faster with AI tools."*
+> *"I can use AI coding tools to work faster and with less toil across my daily development."*
 
 | Competency | Description |
 |-----------|-------------|
