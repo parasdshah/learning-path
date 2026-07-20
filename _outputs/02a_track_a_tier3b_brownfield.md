@@ -17,22 +17,21 @@
 ## Module 3B.1 — Assessing Brownfield Codebases for AI-Readiness
 
 ```
-📌 Course Title: AI-Powered Tech Debt Audit: Assessing Legacy Codebases
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=AI+tech+debt+audit+legacy+codebase+assessment+2025
-👤 Instructor: Conference speakers, practitioners
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Resource: Agentic AI Coding — Best-Practice Patterns for Speed with Quality
+🔗 Platform: CodeScene Blog (official)
+🔗 URL: https://codescene.com/blog/agentic-ai-coding-best-practice-patterns-for-speed-with-quality
+👤 Author: Adam Tornhill (CodeScene founder)
+⏱️ Duration: ~30 min (read + apply to your repo)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 20K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: Opens with "Pull Risk Forward: Assess AI Readiness" — code-health audit before agents
+📅 Last Updated: Feb 2026
 🎯 Mapped To: Track A → Tier 3B → AI-Readiness Assessment
-🏷️ Tags: brownfield, tech-debt, assessment, niche
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: brownfield, tech-debt, assessment
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
-> ⚠️ **Niche topic; limited structured course options available.** This module combines conference talks, practitioner blog posts, and guided exercises.
+> **Supplementary (free)**: CodeScene whitepaper — *AI-Ready Code: How Code Health Determines AI Performance* — https://codescene.com/hubfs/whitepapers/AI-Ready-Code-How-Code-Health-Determines-AI-Performance.pdf
 
 **Supplementary Reading:**
 - "AI-Driven Modernization: From Concept to Practice" — industry whitepapers
@@ -51,19 +50,18 @@
 ## Module 3B.2 — Using AI Agents to Document Legacy Code
 
 ```
-📌 Course Title: AI-Assisted Legacy Code Documentation (Hands-On Workshop Format)
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=AI+document+legacy+code+undocumented+codebase+copilot+claude+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~2 hours (videos + practice)
+📌 Resource: Documenting and Explaining Legacy Code with GitHub Copilot
+🔗 Platform: GitHub Blog (official)
+🔗 URL: https://github.blog/ai-and-ml/github-copilot/documenting-and-explaining-legacy-code-with-github-copilot-tips-and-examples/
+👤 Author: GitHub (Christopher Harrison)
+⏱️ Duration: ~30 min (read + practice)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 15K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: Worked example documenting undocumented legacy code via Copilot Chat
+📅 Last Updated: Jan 2025
 🎯 Mapped To: Track A → Tier 3B → Legacy Code Documentation
-🏷️ Tags: documentation, legacy, hands-on, practical
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: documentation, legacy, hands-on, practical, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 **Hands-On Exercise**: Pick a poorly-documented module from your codebase and use AI agents to:
@@ -78,22 +76,21 @@
 ## Module 3B.3 — AI-Assisted Dependency Upgrades & Migration
 
 ```
-📌 Course Title: Automated Dependency Upgrades with AI: Impact Analysis & Migration
-🔗 Platform: YouTube (curated micro-path + blog posts)
-🔗 URL: https://www.youtube.com/results?search_query=AI+dependency+upgrade+migration+automated+impact+analysis+2025
-👤 Instructor: Various (Dependabot, Renovate, AI agent practitioners)
-⏱️ Duration: ~3 hours (videos + practice)
+📌 Resource: Modernizing Java Projects with GitHub Copilot Agent Mode (Step-by-Step)
+🔗 Platform: GitHub Blog (official)
+🔗 URL: https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/
+👤 Author: GitHub (Andrea Griffiths)
+⏱️ Duration: ~1 hour (read + practice)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 10K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: Scan→assess→dependency updates→javax→jakarta refactor→CVE scan→fix/test loop
+📅 Last Updated: Sep 2025
 🎯 Mapped To: Track A → Tier 3B → Dependency Upgrades with AI
-🏷️ Tags: dependency-management, migration, automation, niche
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: dependency-management, migration, automation, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
-> ⚠️ **Niche topic; limited structured course options available.** Content assembled from practitioner tutorials, conference talks, and tool documentation.
+> **Also verified (other stacks)**: Amazon Q Developer — *Upgrading Java versions* (https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/code-transformation.html); OpenRewrite + Claude Code — Moderne blog *From JBoss to Jetty* (https://moderne.ai/blog/writing-openrewrite-recipes-with-ai).
 
 **Hands-On Exercise**: Using AI agents, perform a dependency upgrade on a real project:
 1. **Scan**: Use AI to identify outdated dependencies and their upgrade paths
@@ -107,19 +104,18 @@
 ## Module 3B.4 — Handling Complex Change Requests with AI
 
 ```
-📌 Course Title: AI-Assisted Change Request Implementation in Large Codebases
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=AI+change+request+implementation+large+codebase+cross+cutting+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~2 hours (videos + practice)
+📌 Resource: How Claude Code Works in Large Codebases — Best Practices
+🔗 Platform: Anthropic (Claude blog, official)
+🔗 URL: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
+👤 Author: Anthropic
+⏱️ Duration: ~30 min (read + practice)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 10K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: Million-line monorepos & legacy systems; plan-then-edit for multi-file changes
+📅 Last Updated: 2026
 🎯 Mapped To: Track A → Tier 3B → Complex CRs with AI
-🏷️ Tags: change-management, cross-cutting, large-codebase, practical
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: change-management, cross-cutting, large-codebase, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 **Key Concepts:**
@@ -140,19 +136,18 @@
 ## Module 3B.5 — Making Legacy Projects AI-Ready
 
 ```
-📌 Course Title: Preparing Legacy Codebases for AI-Assisted Maintenance
-🔗 Platform: YouTube + Blog Posts (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=prepare+legacy+codebase+AI+maintenance+AGENTS.md+context+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~3 hours (videos + reading + practice)
+📌 Resource: AGENTS.md — Open Format for Guiding Coding Agents
+🔗 Platform: agents.md (official spec)
+🔗 URL: https://agents.md/
+👤 Author: Agentic AI Foundation (Linux Foundation)
+⏱️ Duration: ~1 hour (read + configure your repo)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 10K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: The de-facto context-file standard; nested-file precedence for monorepos
+📅 Last Updated: Continuously maintained
 🎯 Mapped To: Track A → Tier 3B → Making Legacy Projects AI-Ready
-🏷️ Tags: legacy-modernisation, AI-readiness, configuration, practical
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: legacy-modernisation, AI-readiness, configuration, official-standard
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 **Key Activities:**
@@ -173,20 +168,21 @@
 ## Module 3B.6 — Day-to-Day Maintenance Acceleration
 
 ```
-📌 Course Title: AI-Driven Maintenance: Bug Triage, Changelogs, and Code Health
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=AI+bug+triage+changelog+code+health+monitoring+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~2 hours (videos + practice)
+📌 Resource: Building AI-Powered GitHub Issue Triage with the Copilot SDK
+🔗 Platform: GitHub Blog (official)
+🔗 URL: https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/
+👤 Author: GitHub (Andrea Griffiths)
+⏱️ Duration: ~1 hour (read + build)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 15K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Builds a real AI issue-triage tool on the Copilot SDK
+📅 Last Updated: 2026
 🎯 Mapped To: Track A → Tier 3B → Maintenance Acceleration
-🏷️ Tags: maintenance, bug-triage, changelogs, monitoring
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: maintenance, bug-triage, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
+
+> **Supplements for the other sub-topics**: changelog/release notes → GitHub *Automatically generated release notes* (https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes); code-health monitoring → CodeScene (https://codescene.com/).
 
 **Key Workflows:**
 - AI-assisted bug triage and root-cause analysis in production
@@ -198,26 +194,26 @@
 ## Module 3B.7 — Case Studies: AI-Powered Legacy Modernisation
 
 ```
-📌 Course Title: Real-World AI Modernisation Case Studies (Java, .NET, Python)
-🔗 Platform: YouTube (conference talks + practitioner videos)
-🔗 URL: https://www.youtube.com/results?search_query=AI+legacy+modernisation+case+study+Java+.NET+Python+2025+2026
-👤 Instructor: Conference speakers (Strange Loop, QCon, NDC, DevoxxUK)
-⏱️ Duration: ~4 hours (curated playlist of 4–6 conference talks)
+📌 Resource: Modernizing Applications in Minutes with Amazon Q Developer (Novacomp)
+🔗 Platform: AWS Case Studies (official)
+🔗 URL: https://aws.amazon.com/solutions/case-studies/novacomp-case-study/
+👤 Author: AWS (customer case study)
+⏱️ Duration: ~20 min (read)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 20K+ (estimated across playlist)
-📅 Last Updated: 2025–2026
+📊 Signal: Quantified — Java 8→17, 10k LOC in ~50 min (vs ~3 weeks), ~60% tech-debt cut
+📅 Last Updated: 2025
 🎯 Mapped To: Track A → Tier 3B → Case Studies
-🏷️ Tags: case-studies, real-world, conference-talks, enterprise
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: case-studies, real-world, quantified, enterprise
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
-**Recommended Talks to Search For:**
-- "How We Migrated 2M Lines of Java Using AI Agents" (QCon / DevoxxUK)
-- "AI-Assisted .NET Framework to .NET 8 Migration" (NDC / Microsoft Build)
-- "Modernising a Python Monolith with Agentic AI" (PyCon / Strange Loop)
-- "From COBOL to Cloud: AI-Powered Legacy Transformation" (conference keynotes)
+**More real, verified case studies (direct links):**
+- COBOL modernisation — GitHub Blog, *How GitHub Copilot and AI agents are saving legacy systems* (Oct 2025): https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/
+- Mainframe COBOL — IBM Research, *watsonx Code Assistant for Z: the Rosetta Stone for mainframes* (Jun 2025): https://research.ibm.com/blog/watsonx-code-assistant-for-z-is-the-rosetta-stone-for-mainframes
+- Reverse-engineering legacy (no source) — InfoQ, *Thoughtworks: From Black Box to Blueprint* (Sep 2025): https://www.infoq.com/news/2025/09/tw-blackbox/
+
+> **Gap note**: verified, quantified public case studies cover **Java** and **COBOL** well. Standalone **.NET** and **Python** case studies of comparable rigour were not found — source these from an internal project or treat as a live demo rather than an external link.
 
 ---
 
@@ -248,13 +244,13 @@ Take a **real legacy module** from an internal codebase and complete the followi
 
 | Module | Topic | Platform | Duration | Cost |
 |--------|-------|----------|----------|------|
-| 3B.1 | AI-Readiness Assessment | YouTube | 2 hr | Free |
-| 3B.2 | Legacy Code Documentation | YouTube | 2 hr | Free |
-| 3B.3 | Dependency Upgrades with AI | YouTube | 3 hr | Free |
-| 3B.4 | Complex CRs with AI | YouTube | 2 hr | Free |
-| 3B.5 | Making Legacy AI-Ready | YouTube + Blogs | 3 hr | Free |
-| 3B.6 | Maintenance Acceleration | YouTube | 2 hr | Free |
-| 3B.7 | Case Studies | YouTube (Conf Talks) | 4 hr | Free |
+| 3B.1 | AI-Readiness Assessment | CodeScene Blog | 2 hr | Free |
+| 3B.2 | Legacy Code Documentation | GitHub Blog | 2 hr | Free |
+| 3B.3 | Dependency Upgrades with AI | GitHub Blog | 3 hr | Free |
+| 3B.4 | Complex CRs with AI | Anthropic Blog | 2 hr | Free |
+| 3B.5 | Making Legacy AI-Ready | agents.md | 3 hr | Free |
+| 3B.6 | Maintenance Acceleration | GitHub Blog | 2 hr | Free |
+| 3B.7 | Case Studies | AWS / GitHub / IBM | 4 hr | Free |
 | — | Brownfield Case Study | Hands-on project | 6 hr | Free |
 
 **Tier 3B Total**: ~24 hours | **Free Content**: 100%

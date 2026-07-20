@@ -103,7 +103,7 @@ For each Udemy course, the verifier must:
 | Field | Pre-Verification Data | Verified Data (fill in) |
 |-------|----------------------|------------------------|
 | **Title** | AI Agents, RAG & LLM Evals for Beginners: DeepEval & RAGAS | |
-| **URL** | https://www.udemy.com/course/ai-agents-rag-llm-evals-deepeval-ragas/ | |
+| **URL** | https://www.udemy.com/course/ai-testing-deepeval-ragas-ollama/ (corrected slug — original guessed slug was a 404) | |
 | **Instructor** | Karthik KK | |
 | **Duration** | ~8 hours (estimated) | |
 | **Rating** | 4.5+ / 5 (Bestseller badge) | |

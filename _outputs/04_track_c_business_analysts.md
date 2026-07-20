@@ -49,19 +49,18 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 1.2 — Business Applications of AI: Industry Case Studies
 
 ```
-📌 Course Title: AI in Business: Real-World Applications Across Industries
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+business+applications+case+studies+healthcare+finance+retail+2025
-👤 Instructor: McKinsey / BCG / Deloitte / Google Cloud YouTube channels
-⏱️ Duration: ~3 hours (curated playlist of 6–8 industry talks)
-💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 100K+ (estimated across playlist)
-📅 Last Updated: 2025–2026
+📌 Course Title: Exploring Artificial Intelligence Use Cases and Applications
+🔗 Platform: Coursera (AWS)
+🔗 URL: https://www.coursera.org/learn/exploring-artificial-intelligence-use-cases-and-applications
+👤 Instructor: Amazon Web Services (AWS)
+⏱️ Duration: ~1 hour
+💰 Cost: Free (audit)
+📊 Signal: Non-technical tour of real AI use cases across healthcare, finance, marketing & more
+📅 Last Updated: 2025
 🎯 Mapped To: Track C → Tier 1 → AI Business Applications
 🏷️ Tags: case-studies, industry, non-technical, business-strategy
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Subtitles/transcripts available
 ```
 
 **Curated industries to cover:**
@@ -76,18 +75,17 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 1.3 — AI Ethics Overview
 
 ```
-📌 Course Title: AI Ethics: Global Perspectives
-🔗 Platform: edX
-🔗 URL: https://www.edx.org/learn/artificial-intelligence/artificial-intelligence-ethics
-👤 Instructor: University-affiliated (varies — look for Harvard, MIT, or equivalent)
+📌 Course Title: AI Ethics for Professionals
+🔗 Platform: edX (DavidsonX)
+🔗 URL: https://www.edx.org/learn/computer-science/davidson-college-the-ethics-of-ai
+👤 Instructor: Davidson College (DavidsonX)
 ⏱️ Duration: ~4 hours
 💰 Cost: Free (audit) / paid certificate
-⭐ Rating: 4.5+ / 5
-👁️ Views / Enrollments: 20K+ (estimated)
+📊 Signal: University-grade ethics course aimed at working professionals
 📅 Last Updated: 2025
 🎯 Mapped To: Track C → Tier 1 → AI Ethics Overview
 🏷️ Tags: ethics, governance, non-technical, university-grade
-✅ Verified: Yes — public edX listing
+✅ Verified: Yes — edX course page confirmed (Jul 2026)
 🔊 Accessibility: Subtitles available
 ```
 
@@ -103,30 +101,21 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 1.4 — The AI Project Lifecycle (Business Perspective)
 
 ```
-📌 Course Title: AI Project Management: From Ideation to Measurement
-🔗 Platform: LinkedIn Learning (if org has licence) / YouTube alternative
-🔗 URL: https://www.linkedin.com/learning/search?keywords=AI+project+management+lifecycle
-👤 Instructor: LinkedIn Learning instructors
-⏱️ Duration: ~2 hours
-💰 Cost: Included with org licence / Free YouTube alternatives available
-⭐ Rating: 4.5+ / 5
-👁️ Views / Enrollments: N/A — platform-dependent
+📌 Course Title: Managing AI Projects: From Strategy to Delivery
+🔗 Platform: Coursera (Johns Hopkins University)
+🔗 URL: https://www.coursera.org/learn/ai-project-management-aipm
+👤 Instructor: Johns Hopkins University (Ian McCulloh)
+⏱️ Duration: ~10 hours
+💰 Cost: Free (audit)
+📊 Signal: End-to-end at-scale AI project management — design, manage, risk mitigation
 📅 Last Updated: 2025
 🎯 Mapped To: Track C → Tier 1 → AI Project Lifecycle
 🏷️ Tags: project-management, lifecycle, non-technical
-✅ Verified: Yes — public LinkedIn Learning listing
+✅ Verified: Yes — link confirmed live (Jul 2026)
 🔊 Accessibility: Subtitles and transcripts available
 ```
 
-**YouTube Alternative:**
-```
-📌 Course Title: AI Project Lifecycle for Business Leaders
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+project+lifecycle+business+ideation+feasibility+measure+2025
-👤 Instructor: Google Cloud / Microsoft AI channels
-⏱️ Duration: ~2 hours
-💰 Cost: Free
-```
+> **Note**: The Johns Hopkins course is free to audit, so no paywalled LinkedIn Learning licence is required. (The prior LinkedIn/YouTube search-placeholder links have been removed.)
 
 ---
 
@@ -172,18 +161,17 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 2.2 — Data Strategy for AI Projects
 
 ```
-📌 Course Title: Data Strategy and AI: Availability, Quality, and Governance
-🔗 Platform: Coursera
-🔗 URL: https://www.coursera.org/learn/data-strategy
-👤 Instructor: University/industry partnership (search for latest offering)
-⏱️ Duration: ~6 hours
+📌 Course Title: Fundamentals of Data Governance
+🔗 Platform: Coursera (Edureka)
+🔗 URL: https://www.coursera.org/learn/fundamentals-of-data-governance
+👤 Instructor: Edureka
+⏱️ Duration: ~8–10 hours
 💰 Cost: Free (audit) / $49/month (certificate)
-⭐ Rating: 4.5+ / 5
-👁️ Views / Enrollments: 15K+ (estimated)
-📅 Last Updated: 2025
+📊 Signal: Data quality, governance & privacy (GDPR/HIPAA/CCPA); includes AI-governance updates
+📅 Last Updated: 2026
 🎯 Mapped To: Track C → Tier 2 → Data Strategy
 🏷️ Tags: data-strategy, governance, non-technical, business-focused
-✅ Verified: Yes — public Coursera listing
+✅ Verified: Yes — link confirmed live (Jul 2026)
 🔊 Accessibility: Subtitles available
 ```
 
@@ -199,19 +187,18 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 2.3 — AI Feasibility Assessment
 
 ```
-📌 Course Title: AI Feasibility: Technical Readiness, Data Readiness, Build vs Buy
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=AI+feasibility+assessment+technical+data+readiness+build+vs+buy+2025
-👤 Instructor: McKinsey / Google Cloud / AI strategy channels
-⏱️ Duration: ~3 hours (curated playlist)
+📌 Course Title: Organizational Readiness for AI Adoption and Scale
+🔗 Platform: Google Cloud (Transform)
+🔗 URL: https://cloud.google.com/transform/organizational-readiness-for-ai-adoption-and-scale
+👤 Instructor: Google Cloud
+⏱️ Duration: ~1 hour (read)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Data/technical/organisational readiness + pilot prioritisation (build-vs-buy via matrix below)
+📅 Last Updated: Jun 2025
 🎯 Mapped To: Track C → Tier 2 → AI Feasibility Assessment
 🏷️ Tags: feasibility, strategy, build-vs-buy, decision-framework
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 **Self-Study Framework**: Use this decision matrix for any AI initiative:
@@ -259,19 +246,18 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 2.5 — AI-Assisted Data Visualisation
 
 ```
-📌 Course Title: AI-Powered Data Visualisation: Power BI Copilot & Tableau AI
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=Power+BI+Copilot+AI+data+visualisation+business+analyst+2025
-👤 Instructor: Microsoft / Tableau / BI community channels
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: Copilot in Power BI Tutorial — Get Started
+🔗 Platform: Microsoft Learn (official)
+🔗 URL: https://learn.microsoft.com/en-us/power-bi/create-reports/tutorial-copilot-power-bi-get-started
+👤 Instructor: Microsoft (official)
+⏱️ Duration: ~2 hours (hands-on with sample .pbix)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 100K+ (estimated, Power BI Copilot videos are popular)
-📅 Last Updated: 2025–2026
+📊 Signal: First-party, current (updated May 2026), step-by-step Power BI Copilot tutorial
+📅 Last Updated: May 2026
 🎯 Mapped To: Track C → Tier 2 → AI-Assisted Data Visualisation
-🏷️ Tags: data-viz, Power-BI, Tableau, Copilot, no-code
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: data-viz, Power-BI, Copilot, no-code, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Full transcripts available
 ```
 
 ---
@@ -293,19 +279,18 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 3.1 — AI Product Management & Stakeholder Expectations
 
 ```
-📌 Course Title: AI Product Management: Prioritising AI Features & Managing Expectations
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=AI+product+management+prioritisation+stakeholder+expectations+2025
-👤 Instructor: Product School / Google / Microsoft PM channels
-⏱️ Duration: ~2 hours (curated playlist)
-💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated)
-📅 Last Updated: 2025–2026
+📌 Course Title: Microsoft AI Product Manager (Professional Certificate)
+🔗 Platform: Coursera (Microsoft)
+🔗 URL: https://www.coursera.org/professional-certificates/microsoft-ai-product-manager
+👤 Instructor: Microsoft
+⏱️ Duration: ~3 hours (audit the relevant course; full certificate is longer)
+💰 Cost: Free (per-course audit)
+📊 Signal: Explicitly names feature prioritisation + stakeholder/change management
+📅 Last Updated: 2025
 🎯 Mapped To: Track C → Tier 3 → AI Product Management
 🏷️ Tags: product-management, prioritisation, stakeholder, strategy
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Subtitles/transcripts available
 ```
 
 ---
@@ -313,19 +298,18 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 3.2 — ROI Modelling for AI Initiatives
 
 ```
-📌 Course Title: AI ROI: Cost-Benefit Analysis, Build vs Buy, and TCO
-🔗 Platform: YouTube + Self-study
-🔗 URL: https://www.youtube.com/results?search_query=AI+ROI+cost+benefit+analysis+total+cost+ownership+2025
-👤 Instructor: McKinsey / Gartner / AI strategy channels
-⏱️ Duration: ~3 hours (videos + template creation)
-💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
-📅 Last Updated: 2025–2026
+📌 Course Title: 7 Factors That Drive Returns on AI Investments
+🔗 Platform: Harvard Business Review
+🔗 URL: https://hbr.org/2026/03/7-factors-that-drive-returns-on-ai-investments-according-to-a-new-survey
+👤 Instructor: Thomas H. Davenport & Laks Srinivasan (HBR)
+⏱️ Duration: ~1 hour (read + build your ROI template)
+💰 Cost: Free (HBR metered paywall after a few articles)
+📊 Signal: Very recent (Mar 2026), survey-based view of what drives measurable AI returns
+📅 Last Updated: Mar 2026
 🎯 Mapped To: Track C → Tier 3 → ROI Modelling
 🏷️ Tags: ROI, cost-benefit, TCO, financial-analysis
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 **Deliverable**: Create an ROI model template for AI initiatives with:
@@ -340,20 +324,21 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ### Module 3.3 — Vendor Evaluation & Model Cards
 
 ```
-📌 Course Title: Evaluating AI Vendors: Benchmarks, Model Cards, and Due Diligence
-🔗 Platform: YouTube + Self-study
-🔗 URL: https://www.youtube.com/results?search_query=evaluating+AI+vendors+model+cards+benchmarks+due+diligence+2025
-👤 Instructor: AI conference speakers, industry analysts
-⏱️ Duration: ~2 hours
+📌 Course Title: How 100 Enterprise CIOs Are Building and Buying Gen AI
+🔗 Platform: Andreessen Horowitz (a16z)
+🔗 URL: https://a16z.com/ai-enterprise-2025/
+👤 Instructor: a16z (Sarah Wang et al.)
+⏱️ Duration: ~1 hour (read)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 20K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Enterprise benchmarks, evaluation discipline, build-vs-buy & procurement due diligence
+📅 Last Updated: Jun 2025
 🎯 Mapped To: Track C → Tier 3 → Vendor Evaluation
 🏷️ Tags: vendor-evaluation, model-cards, benchmarks, due-diligence
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
+
+> **Companion (model cards specifically)**: IAPP — *5 things to know about AI model cards* — https://iapp.org/news/a/5-things-to-know-about-ai-model-cards
 
 ---
 
@@ -362,13 +347,12 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 ```
 📌 Course Title: Foundations of AI Governance and Responsible Development
 🔗 Platform: Coursera
-🔗 URL: https://www.coursera.org/learn/ai-governance-responsible-development
-👤 Instructor: Industry/university partnership
+🔗 URL: https://www.coursera.org/learn/foundations-of-ai-governance-and-responsible-development
+👤 Instructor: LearnQuest
 ⏱️ Duration: ~6 hours
 💰 Cost: Free (audit) / $49/month (certificate)
-⭐ Rating: 4.5+ / 5
-👁️ Views / Enrollments: 10K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Maps AI lifecycle to governance checkpoints aligned to NIST AI RMF & EU AI Act
+📅 Last Updated: 2026
 🎯 Mapped To: Track C → Tier 3 → AI Governance Frameworks
 🏷️ Tags: governance, EU-AI-Act, NIST-RMF, regulatory, non-technical
 ✅ Verified: Yes — public Coursera listing
@@ -430,17 +414,17 @@ Week 8–10  → Tier 3: AI Strategy & Governance (12–18 hrs)
 | Module | Course | Platform | Duration | Cost | Tier |
 |--------|--------|----------|----------|------|------|
 | 1.1 | AI For Everyone (Andrew Ng) | Coursera | 10 hr | Free (audit) | 1 |
-| 1.2 | AI Business Applications (Case Studies) | YouTube | 3 hr | Free | 1 |
-| 1.3 | AI Ethics: Global Perspectives | edX | 4 hr | Free (audit) | 1 |
-| 1.4 | AI Project Lifecycle (Business) | LinkedIn Learning / YouTube | 2 hr | Free | 1 |
+| 1.2 | AI Use Cases & Applications | Coursera (AWS) | 3 hr | Free (audit) | 1 |
+| 1.3 | AI Ethics for Professionals | edX (DavidsonX) | 4 hr | Free (audit) | 1 |
+| 1.4 | Managing AI Projects | Coursera (Johns Hopkins) | 2 hr | Free (audit) | 1 |
 | 2.1 | AI-Ready Requirements Workshop | Self-study | 4 hr | Free | 2 |
-| 2.2 | Data Strategy and AI | Coursera | 6 hr | Free (audit) | 2 |
-| 2.3 | AI Feasibility Assessment | YouTube | 3 hr | Free | 2 |
+| 2.2 | Fundamentals of Data Governance | Coursera | 6 hr | Free (audit) | 2 |
+| 2.3 | AI Feasibility / Readiness | Google Cloud | 3 hr | Free | 2 |
 | 2.4 | ChatGPT & AI for BAs | Udemy | 8 hr | ₹499–799 | 2 |
-| 2.5 | AI Data Visualisation | YouTube | 2 hr | Free | 2 |
-| 3.1 | AI Product Management | YouTube | 2 hr | Free | 3 |
-| 3.2 | AI ROI Modelling | YouTube + Self-study | 3 hr | Free | 3 |
-| 3.3 | Vendor Evaluation & Model Cards | YouTube | 2 hr | Free | 3 |
+| 2.5 | Power BI Copilot Tutorial | Microsoft Learn | 2 hr | Free | 2 |
+| 3.1 | AI Product Management | Coursera (Microsoft) | 2 hr | Free (audit) | 3 |
+| 3.2 | AI ROI (7 Factors) | Harvard Business Review | 3 hr | Free | 3 |
+| 3.3 | Vendor Evaluation & Model Cards | a16z + IAPP | 2 hr | Free | 3 |
 | 3.4 | AI Governance & Regulatory | Coursera + Alison | 9 hr | Free (audit) | 3 |
 | 3.5 | Responsible AI Practice | Self-study | 3 hr | Free | 3 |
 

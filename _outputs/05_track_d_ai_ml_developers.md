@@ -135,19 +135,18 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 2.1 — Experiment Tracking & Hyperparameter Tuning
 
 ```
-📌 Course Title: MLflow Tutorial: Experiment Tracking, Model Registry, and Deployment
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=MLflow+tutorial+experiment+tracking+model+registry+2025
-👤 Instructor: MLflow / Databricks / MLOps community channels
-⏱️ Duration: ~3 hours (curated playlist)
+📌 Course Title: MLflow Tracking Quickstart (Experiment Tracking + Model Registry)
+🔗 Platform: MLflow Docs (official)
+🔗 URL: https://mlflow.org/docs/latest/ml/tracking/quickstart/
+👤 Instructor: MLflow (Linux Foundation)
+⏱️ Duration: ~2 hours (hands-on)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 100K+ (estimated)
-📅 Last Updated: 2025
+📊 Signal: Canonical log→register→load-for-inference walkthrough (MLflow 3)
+📅 Last Updated: Continuously maintained
 🎯 Mapped To: Track D → Tier 2 → Experiment Tracking
-🏷️ Tags: MLOps, experiment-tracking, hands-on, MLflow
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: MLOps, experiment-tracking, hands-on, MLflow, official-docs
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -183,18 +182,17 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 
 ```
 📌 Course Title: ChatGPT Prompt Engineering for Developers
-🔗 Platform: Coursera (DeepLearning.AI)
-🔗 URL: https://www.coursera.org/learn/chatgpt-prompt-engineering-for-developers
+🔗 Platform: DeepLearning.AI (short course)
+🔗 URL: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 👤 Instructor: Andrew Ng + Isa Fulford (OpenAI)
-⏱️ Duration: ~2 hours
-💰 Cost: Free (audit)
-⭐ Rating: 4.9 / 5
-👁️ Views / Enrollments: 500K+ enrollments
+⏱️ Duration: ~1h40m (9 lessons + 7 code examples)
+💰 Cost: Free
+📊 Signal: The canonical API-level prompting short course, in partnership with OpenAI
 📅 Last Updated: 2024 (API patterns remain current)
 🎯 Mapped To: Track D → Tier 2 → API-Level Prompt Engineering
 🏷️ Tags: hands-on, API-level, system-prompts, function-calling, structured-outputs
-✅ Verified: Yes — public Coursera listing
-🔊 Accessibility: Full subtitles, Jupyter notebooks provided
+✅ Verified: Yes — link confirmed live (Jul 2026); free on DeepLearning.AI (not Coursera)
+🔊 Accessibility: Jupyter notebooks provided
 ```
 
 > **Boundary Note**: This is API-level prompt engineering (designing system prompts for production apps). Track A covers tool-level prompt engineering (prompts for Copilot/Claude Code). Zero overlap.
@@ -231,19 +229,18 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 2.5 — Building AI Agents
 
 ```
-📌 Course Title: AI Agents in LangGraph — Full Course
+📌 Course Title: LangGraph Complete Course for Beginners — Complex AI Agents with Python
 🔗 Platform: freeCodeCamp (YouTube)
-🔗 URL: https://www.youtube.com/results?search_query=freeCodeCamp+AI+agents+LangGraph+full+course+2025
-👤 Instructor: freeCodeCamp
-⏱️ Duration: ~6 hours
+🔗 URL: https://www.youtube.com/watch?v=jGg_1h0qzaM
+👤 Instructor: freeCodeCamp (Vaibhav Mehra)
+⏱️ Duration: ~3h 10m
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 200K+ (estimated for freeCodeCamp AI course)
+📊 Signal: Full build-from-scratch LangGraph course with GitHub code + exercises
 📅 Last Updated: 2025
 🎯 Mapped To: Track D → Tier 2 → AI Agent Development
 🏷️ Tags: hands-on, project-based, LangGraph, agents, tool-use, free
-✅ Verified: Yes — public freeCodeCamp content
-🔊 Accessibility: Auto-captions, GitHub repos linked
+✅ Verified: Yes — direct video link confirmed live (Jul 2026)
+🔊 Accessibility: Auto-captions, GitHub repo with code
 ```
 
 > **Boundary Note**: This teaches *building* AI agent systems (architecture, tool use, memory, orchestration). Track A teaches *using* pre-built agentic coding tools. Zero overlap.
@@ -295,19 +292,18 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 3.1 — Building AI-Native Applications End-to-End
 
 ```
-📌 Course Title: Full Stack LLM Bootcamp (Production LLM Applications)
-🔗 Platform: YouTube (Full Stack Deep Learning)
-🔗 URL: https://www.youtube.com/results?search_query=full+stack+deep+learning+LLM+bootcamp+production+2025
+📌 Course Title: Full Stack LLM Bootcamp
+🔗 Platform: The Full Stack (official site)
+🔗 URL: https://fullstackdeeplearning.com/llm-bootcamp/
 👤 Instructor: Full Stack Deep Learning (Sergey Karayev, Josh Tobin)
-⏱️ Duration: ~10 hours (lecture series)
+⏱️ Duration: ~10 hours (recorded lectures, free)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 200K+ (estimated across series)
-📅 Last Updated: 2025
+📊 Signal: Canonical end-to-end LLM-app curriculum: prompting, LLMOps, augmented LLMs, UX, shipping
+📅 Last Updated: 2023–2025
 🎯 Mapped To: Track D → Tier 3 → AI-Native Applications E2E
 🏷️ Tags: production, end-to-end, architecture, advanced, free
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions, slides available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Slides + recordings available
 ```
 
 ---
@@ -337,19 +333,18 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 3.3 — Evaluation Frameworks
 
 ```
-📌 Course Title: LLM Evaluation: Automated Benchmarking, Human Eval, and LLM-as-Judge
-🔗 Platform: YouTube (DeepLearning.AI short courses + community)
-🔗 URL: https://www.youtube.com/results?search_query=LLM+evaluation+benchmark+human+eval+LLM+as+judge+2025
-👤 Instructor: DeepLearning.AI / Hugging Face / evaluation community
-⏱️ Duration: ~4 hours
+📌 Course Title: The LLM Evaluation Guidebook
+🔗 Platform: Hugging Face (GitHub)
+🔗 URL: https://github.com/huggingface/evaluation-guidebook
+👤 Instructor: Hugging Face (Clémentine Fourrier et al.)
+⏱️ Duration: ~4 hours (self-paced reading)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated)
+📊 Signal: Dedicated sections for automated benchmarks, human eval, and LLM-as-judge
 📅 Last Updated: 2025–2026
 🎯 Mapped To: Track D → Tier 3 → Evaluation Frameworks
 🏷️ Tags: evaluation, benchmarking, LLM-as-judge, human-eval, advanced
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based (rendered version on HF Spaces)
 ```
 
 ---
@@ -379,19 +374,18 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 3.5 — AI Security: Defence & Red-Teaming
 
 ```
-📌 Course Title: AI Security: Prompt Injection Defence, Adversarial Attacks, and Red-Teaming (Engineering Perspective)
-🔗 Platform: YouTube (OWASP AI Security + conference talks)
-🔗 URL: https://www.youtube.com/results?search_query=OWASP+AI+security+prompt+injection+defence+adversarial+attacks+engineering+2025
-👤 Instructor: OWASP / security researchers / AI security practitioners
-⏱️ Duration: ~4 hours (curated playlist)
+📌 Course Title: OWASP Top 10 for LLM Applications 2025
+🔗 Platform: OWASP GenAI Security Project (official)
+🔗 URL: https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
+👤 Instructor: OWASP Foundation
+⏱️ Duration: ~4 hours (reference + PDF)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated, security talks are popular)
-📅 Last Updated: 2025–2026
+📊 Signal: Industry-standard baseline (LLM01–LLM10); links onward to agentic/red-teaming guidance
+📅 Last Updated: 2025 (v2.0)
 🎯 Mapped To: Track D → Tier 3 → AI Security (Engineering)
-🏷️ Tags: security, prompt-injection, adversarial, defence, engineering, advanced
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: security, prompt-injection, adversarial, defence, engineering, official-standard
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 > **Boundary Note**: Track A covers AI security from a *developer using AI tools* perspective (secrets in prompts, code leakage). Track D covers AI security from an *engineer building AI systems* perspective (defending against prompt injection, adversarial robustness). Different concerns.
@@ -401,19 +395,18 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 3.6 — Scalability: Distributed Training & GPU Optimisation
 
 ```
-📌 Course Title: Scaling AI: Distributed Training, GPU Optimisation, and Cost Management
-🔗 Platform: YouTube + AWS/GCP Skill Builders
-🔗 URL: https://www.youtube.com/results?search_query=distributed+training+GPU+optimisation+cost+management+AI+2025
-👤 Instructor: AWS / GCP / NVIDIA channels
-⏱️ Duration: ~4 hours
+📌 Course Title: The Ultra-Scale Playbook — Training LLMs on GPU Clusters
+🔗 Platform: Hugging Face (interactive book)
+🔗 URL: https://huggingface.co/spaces/nanotron/ultrascale-playbook
+👤 Instructor: Hugging Face (nanotron team)
+⏱️ Duration: ~4 hours (long-form, self-paced)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube/vendor)
-👁️ Views: 50K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: 5D parallelism, activation recomputation, GPU throughput — 4000+ scaling experiments
+📅 Last Updated: 2025
 🎯 Mapped To: Track D → Tier 3 → Scalability & Cost Management
-🏷️ Tags: distributed-training, GPU, cost, scaling, advanced
-✅ Verified: Yes — public content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: distributed-training, GPU, scaling, advanced
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -421,18 +414,17 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 ### Module 3.7 — Production Best Practices: Monitoring, Observability, A/B Testing
 
 ```
-📌 Course Title: ML in Production: Monitoring, Observability, and A/B Testing for AI
-🔗 Platform: Coursera (DeepLearning.AI MLOps Specialization — Course 4)
-🔗 URL: https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production
-👤 Instructor: Robert Crowe, Andrew Ng (DeepLearning.AI)
+📌 Course Title: Machine Learning in Production (MLOps Specialization — Course 1)
+🔗 Platform: Coursera (DeepLearning.AI)
+🔗 URL: https://www.coursera.org/learn/introduction-to-machine-learning-in-production
+👤 Instructor: Andrew Ng, Robert Crowe (DeepLearning.AI)
 ⏱️ Duration: ~6 hours
 💰 Cost: Free (audit) / $49/month (certificate)
-⭐ Rating: 4.6 / 5
-👁️ Views / Enrollments: 50K+ enrollments
+📊 Signal: Deployment patterns, monitoring, concept/data drift — correct course for this topic
 📅 Last Updated: 2024 (production patterns remain current)
 🎯 Mapped To: Track D → Tier 3 → Production Monitoring & Observability
-🏷️ Tags: production, monitoring, observability, A/B-testing, MLOps
-✅ Verified: Yes — public Coursera listing
+🏷️ Tags: production, monitoring, observability, drift, MLOps
+✅ Verified: Yes — link confirmed live (Jul 2026)
 🔊 Accessibility: Full subtitles, transcripts available
 ```
 
@@ -454,19 +446,19 @@ Week 11–16 → Tier 3: Advanced AI Engineering & Production Systems (30–48 h
 | 1.2 | Kaggle Learn Micro-Courses (Python→Pandas→ML) | Kaggle | 15 hr | Free | 1 |
 | 1.3 | Data Analysis with Python | freeCodeCamp/YouTube | 4 hr | Free | 1 |
 | 1.4 | PyTorch Deep Learning Full Course | freeCodeCamp/YouTube | 12 hr* | Free | 1 |
-| 2.1 | MLflow Experiment Tracking | YouTube | 3 hr | Free | 2 |
+| 2.1 | MLflow Tracking Quickstart | MLflow Docs | 3 hr | Free | 2 |
 | 2.2 | Hugging Face LLM Course (Fine-Tuning) | Hugging Face Learn | 10 hr | Free | 2 |
-| 2.3 | ChatGPT Prompt Engineering for Devs | Coursera | 2 hr | Free (audit) | 2 |
+| 2.3 | ChatGPT Prompt Engineering for Devs | DeepLearning.AI | 2 hr | Free | 2 |
 | 2.4 | LangChain & RAG Applications | Udemy | 12 hr | ₹499–799 | 2 |
-| 2.5 | AI Agents in LangGraph | freeCodeCamp/YouTube | 6 hr | Free | 2 |
+| 2.5 | LangGraph Complete Course (Agents) | freeCodeCamp/YouTube | 6 hr | Free | 2 |
 | 2.6 | MLOps Zoomcamp | GitHub + YouTube | 20 hr | Free | 2 |
-| 3.1 | Full Stack LLM Bootcamp | YouTube | 10 hr | Free | 3 |
+| 3.1 | Full Stack LLM Bootcamp | The Full Stack | 10 hr | Free | 3 |
 | 3.2 | Multi-Agent AI Systems | Udemy | 10 hr | ₹499–799 | 3 |
-| 3.3 | LLM Evaluation Frameworks | YouTube | 4 hr | Free | 3 |
+| 3.3 | LLM Evaluation Guidebook | Hugging Face | 4 hr | Free | 3 |
 | 3.4 | Responsible AI (Technical) | Google AI | 4 hr | Free | 3 |
-| 3.5 | AI Security (Engineering) | YouTube | 4 hr | Free | 3 |
-| 3.6 | Distributed Training & GPU Optimisation | YouTube + Cloud | 4 hr | Free | 3 |
-| 3.7 | ML in Production (Monitoring) | Coursera | 6 hr | Free (audit) | 3 |
+| 3.5 | OWASP Top 10 for LLM Apps | OWASP | 4 hr | Free | 3 |
+| 3.6 | Ultra-Scale Playbook (GPU/Scaling) | Hugging Face | 4 hr | Free | 3 |
+| 3.7 | ML in Production (MLOps Course 1) | Coursera | 6 hr | Free (audit) | 3 |
 
 **Track D Total**: ~107 hours* | **Free Content**: ~82% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)
 

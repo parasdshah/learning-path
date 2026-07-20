@@ -54,44 +54,42 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 ```
 📌 Course Title: How Large Language Models Work (What QA Needs to Know)
 🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=how+LLMs+work+non+deterministic+testing+QA+2025
-👤 Instructor: IBM Technology / Computerphile
-⏱️ Duration: ~2 hours (curated playlist: 4–5 videos)
+🔗 URL: https://www.youtube.com/watch?v=5sLYAQS9sWQ
+👤 Instructor: IBM Technology (Martin Keen)
+⏱️ Duration: ~6 minutes
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 500K+ (IBM Technology AI videos typically)
-📅 Last Updated: 2024–2025
+📊 Signal: Canonical explainer of token/next-word probability — the root of non-determinism
+📅 Last Updated: 2024
 🎯 Mapped To: Track B → Tier 1 → LLM Concepts for QA
 🏷️ Tags: theory, visual, LLM-specific, QA-framing
-✅ Verified: Yes — public YouTube content
+✅ Verified: Yes — direct video link confirmed live (Jul 2026)
 🔊 Accessibility: Auto-captions available
 ```
 
-**Curated Playlist (search for these):**
-1. "How Large Language Models Work" — IBM Technology
-2. "Why LLMs Hallucinate" — technical explainer
-3. "Non-Deterministic AI: Why Traditional Testing Fails" — testing conference talk
-4. "Tokens, Temperature, and Top-P: What QA Engineers Need to Know"
+**Direct companion videos (verified live):**
+1. *Why Large Language Models Hallucinate* — IBM Technology: https://www.youtube.com/watch?v=cfqtFvWOfg0
+2. *How Large Language Models Work* — IBM Technology (primary link above)
 
 ---
 
 ### Module 1.3 — The AI Product Lifecycle for QA
 
 ```
-📌 Course Title: AI/ML Product Lifecycle: From Data to Deployment (QA Testing Points)
+📌 Course Title: How Do You Build MLOps Pipelines on Google Cloud AI?
 🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+ML+product+lifecycle+testing+deployment+monitoring+2025
-👤 Instructor: Google Cloud / MLOps community
-⏱️ Duration: ~1.5 hours
+🔗 URL: https://www.youtube.com/watch?v=F9bbNgVx0g8
+👤 Instructor: Google Cloud Tech
+⏱️ Duration: ~10 minutes
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 100K+ (estimated)
-📅 Last Updated: 2025
+📊 Signal: Walks data→train→deploy→monitor; pair with the Google Cloud doc for test points
+📅 Last Updated: Sep 2025
 🎯 Mapped To: Track B → Tier 1 → AI Product Lifecycle
 🏷️ Tags: lifecycle, process, testing-integration-points
-✅ Verified: Yes — public YouTube content
+✅ Verified: Yes — direct video link confirmed live (Jul 2026)
 🔊 Accessibility: Auto-captions available
 ```
+
+> **Companion (where testing fits)**: Google Cloud — *MLOps: Continuous delivery and automation pipelines in ML* — https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
 **Self-Study Exercise**: Map a typical AI product lifecycle to QA activities:
 | AI Lifecycle Stage | QA Activity |
@@ -146,7 +144,7 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 ```
 📌 Course Title: AI Agents, RAG & LLM Evals for Beginners: DeepEval & RAGAS
 🔗 Platform: Udemy
-🔗 URL: https://www.udemy.com/course/ai-agents-rag-llm-evals-deepeval-ragas/
+🔗 URL: https://www.udemy.com/course/ai-testing-deepeval-ragas-ollama/
 👤 Instructor: Karthik KK
 ⏱️ Duration: ~8 hours
 💰 Cost: ₹499–₹799 / $9.99–$14.99 (sale price)
@@ -171,42 +169,42 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 ### Module 2.3 — Prompt Testing & Input Variation
 
 ```
-📌 Course Title: Prompt Testing for QA: Input Variation, Boundary Testing, and Adversarial Prompts
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=prompt+testing+QA+input+variation+boundary+adversarial+2025
-👤 Instructor: QA conference speakers, testing practitioners
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: LLM Red Teaming Guide (Adversarial & Boundary Prompt Testing)
+🔗 Platform: Promptfoo Docs (open source)
+🔗 URL: https://www.promptfoo.dev/docs/red-team/
+👤 Instructor: Promptfoo
+⏱️ Duration: ~2 hours (read + run in CI)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 20K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: Hands-on adversarial input generation you can run in CI/CD (23k+ GitHub stars)
+📅 Last Updated: 2026
 🎯 Mapped To: Track B → Tier 2 → Prompt Testing
-🏷️ Tags: prompt-testing, boundary-testing, adversarial, niche
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: prompt-testing, boundary-testing, adversarial, hands-on
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
-> ⚠️ **Niche topic; limited structured course options available.** Supplemented with conference talks and practitioner guides.
+> **Companion (risk taxonomy)**: OWASP Top 10 for LLM Applications (2025) — https://genai.owasp.org/llm-top-10/. Promptfoo covers adversarial/boundary prompts; drive happy-path input-variation cases from your existing functional test design.
 
 ---
 
 ### Module 2.4 — Visual Testing with AI
 
 ```
-📌 Course Title: AI Visual Testing: Screenshot Comparison & UI Anomaly Detection
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+visual+testing+screenshot+comparison+anomaly+detection+2025
-👤 Instructor: Applitools / Percy / testing tool channels
-⏱️ Duration: ~1.5 hours
+📌 Course Title: Overview of Visual UI Testing (Applitools)
+🔗 Platform: Applitools Docs (official)
+🔗 URL: https://applitools.com/docs/eyes/getting-started/overview
+👤 Instructor: Applitools
+⏱️ Duration: ~1.5 hours (read + try)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
+📊 Signal: Canonical vendor; baseline-capture → screenshot-comparison → review loop
 📅 Last Updated: 2025
 🎯 Mapped To: Track B → Tier 2 → Visual Testing with AI
 🏷️ Tags: visual-testing, UI, anomaly-detection, tools
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
+
+> **Free video alternative**: *Modern Functional Test Automation Through Visual AI* — Test Automation University — https://testautomationu.applitools.com/modern-functional-testing/
 
 ---
 
@@ -248,20 +246,21 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 ### Module 3.1 — Model Evaluation Metrics for QA
 
 ```
-📌 Course Title: ML Metrics for QA: Precision, Recall, F1, BLEU, ROUGE Explained
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=machine+learning+metrics+precision+recall+F1+BLEU+ROUGE+explained+2025
-👤 Instructor: StatQuest / Krish Naik / equivalent ML educator
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: Classification Metrics — Accuracy, Precision, Recall, F1
+🔗 Platform: Google ML Crash Course (official)
+🔗 URL: https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
+👤 Instructor: Google
+⏱️ Duration: ~1 hour (read + interactive)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 500K+ (StatQuest metrics videos are highly popular)
-📅 Last Updated: 2024–2025 (evergreen mathematical concepts)
+📊 Signal: Authoritative & interactive for precision/recall/F1
+📅 Last Updated: 2025
 🎯 Mapped To: Track B → Tier 3 → Model Evaluation Metrics
-🏷️ Tags: metrics, evaluation, mathematical, evergreen
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: metrics, evaluation, mathematical, evergreen, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
+
+> **Companion (BLEU + ROUGE for text)**: Microsoft Learn — *Evaluation metrics* (defines BLEU and ROUGE-N/ROUGE-L with formulas) — https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics. Optional visual intuition: StatQuest *Confusion Matrix* — https://youtu.be/Kdsp6soqA7o
 
 ---
 
@@ -323,19 +322,18 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 ### Module 3.4 — Performance Benchmarking for AI Systems
 
 ```
-📌 Course Title: AI System Performance: Latency, Throughput, and Cost Benchmarking
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+system+performance+benchmarking+latency+throughput+cost+per+query+2025
-👤 Instructor: MLOps community / cloud provider channels
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: LLM Inference Benchmarking — How Much Does Your LLM Inference Cost?
+🔗 Platform: NVIDIA Technical Blog (official)
+🔗 URL: https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/
+👤 Instructor: NVIDIA (Vinh Nguyen, Sergio Perez)
+⏱️ Duration: ~1 hour (read)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: One article covering latency (TTFT/ITL), throughput (TPS/RPS) and cost per 1M tokens
+📅 Last Updated: Jun 2025
 🎯 Mapped To: Track B → Tier 3 → Performance Benchmarking
 🏷️ Tags: performance, latency, throughput, cost, benchmarking
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -343,19 +341,18 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 ### Module 3.5 — Monitoring AI in Production
 
 ```
-📌 Course Title: AI Production Monitoring: Drift Detection, Quality Alerts, A/B Testing
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+production+monitoring+drift+detection+quality+alerts+2025
-👤 Instructor: MLOps community / Evidently AI / Whylabs
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: Data Drift in ML — How to Detect and Handle It
+🔗 Platform: Evidently AI (open source)
+🔗 URL: https://www.evidentlyai.com/ml-in-production/data-drift
+👤 Instructor: Evidently AI
+⏱️ Duration: ~1.5 hours (read + try the library)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Canonical OSS monitoring source; drift detection & quality alerts without labels
+📅 Last Updated: 2025
 🎯 Mapped To: Track B → Tier 3 → Production AI Monitoring
 🏷️ Tags: monitoring, drift-detection, production, observability
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -395,18 +392,18 @@ Week 9–12  → Tier 3: AI Quality Assurance Specialisation (16–24 hrs)
 | Module | Course | Platform | Duration | Cost | Tier |
 |--------|--------|----------|----------|------|------|
 | 1.1 | IBM AI Foundations for Everyone | Coursera | 10 hr | Free (audit) | 1 |
-| 1.2 | How LLMs Work (QA Perspective) | YouTube | 2 hr | Free | 1 |
-| 1.3 | AI/ML Product Lifecycle for QA | YouTube | 1.5 hr | Free | 1 |
+| 1.2 | How LLMs Work (QA Perspective) | YouTube (IBM Technology) | 2 hr | Free | 1 |
+| 1.3 | AI/ML Product Lifecycle for QA | YouTube (Google Cloud) | 1.5 hr | Free | 1 |
 | 2.1 | Using Gen AI in Automation Testing | Udemy | 15 hr | ₹499–799 | 2 |
 | 2.2 | AI Agents, RAG & LLM Evals (DeepEval) | Udemy | 8 hr | ₹499–799 | 2 |
-| 2.3 | Prompt Testing for QA | YouTube | 2 hr | Free | 2 |
-| 2.4 | Visual Testing with AI | YouTube | 1.5 hr | Free | 2 |
+| 2.3 | Prompt Testing / Red-Teaming for QA | Promptfoo | 2 hr | Free | 2 |
+| 2.4 | Visual Testing with AI | Applitools | 1.5 hr | Free | 2 |
 | 2.5 | Regression for Non-Deterministic AI | Self-study | 3 hr | Free | 2 |
-| 3.1 | ML Metrics for QA | YouTube | 2 hr | Free | 3 |
+| 3.1 | ML Metrics for QA | Google ML Crash Course | 2 hr | Free | 3 |
 | 3.2 | Bias & Fairness Testing | Google AI + YouTube | 3 hr | Free | 3 |
 | 3.3 | GenAI & AI Agents for QA (Advanced) | Udemy | 10 hr | ₹499–799 | 3 |
-| 3.4 | Performance Benchmarking | YouTube | 2 hr | Free | 3 |
-| 3.5 | Production AI Monitoring | YouTube | 2 hr | Free | 3 |
+| 3.4 | Performance Benchmarking | NVIDIA Blog | 2 hr | Free | 3 |
+| 3.5 | Production AI Monitoring | Evidently AI | 2 hr | Free | 3 |
 | 3.6 | AI Test Strategy Creation | Self-study | 4 hr | Free | 3 |
 
 **Track B Total**: ~66 hours | **Free Content**: ~62% | **Paid Content**: 3 Udemy courses (~₹1,500–2,400 / $30–45 total)

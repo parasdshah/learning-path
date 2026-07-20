@@ -42,7 +42,7 @@
 ✅ **No two courses within the same track cover >70% overlapping content.**
 
 ### Track A ↔ Track D Special Audit
-✅ **Zero content bleed confirmed.** See [06_track_a_vs_d_boundary_analysis.md](file:///c:/Users/user/Projects/stock-market-analysis/learning-path/_outputs/06_track_a_vs_d_boundary_analysis.md) for detailed delineation.
+✅ **Zero content bleed confirmed.** See [06_track_a_vs_d_boundary_analysis.md](06_track_a_vs_d_boundary_analysis.md) for detailed delineation.
 
 ---
 

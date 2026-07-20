@@ -48,19 +48,18 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 1.2 — Understanding What AI Can and Can't Do for Developers
 
 ```
-📌 Course Title: How AI Coding Assistants Actually Work (And When They Fail)
+📌 Course Title: What is an AI Code Generator? LLM Coding, Productivity & Risk
 🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=how+AI+coding+assistants+work+limitations+2025
-👤 Instructor: Fireship
-⏱️ Duration: ~15 minutes
+🔗 URL: https://www.youtube.com/watch?v=oanQrXEiCy4
+👤 Instructor: IBM Technology (Bri Kopecki)
+⏱️ Duration: ~10 minutes
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 500K+ (typical Fireship AI video)
+📊 Signal: Enterprise explainer channel — how AI code generation works AND its risks
 📅 Last Updated: 2025
 🎯 Mapped To: Track A → Tier 1 → AI Capabilities & Limitations
 🏷️ Tags: quick-overview, practical, developer-focused
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Captions available
+✅ Verified: Yes — direct video link confirmed live (Jul 2026)
+🔊 Accessibility: Auto-captions available
 ```
 
 **Why this course**: Fireship delivers concise, developer-centric content. This sets realistic expectations before tool setup.
@@ -97,72 +96,73 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 1.4 — Claude Code Setup & Agentic Coding
 
 ```
-📌 Course Title: Claude Code Full Course: Zero to Pro in One Hour
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=claude+code+full+course+zero+to+pro
-👤 Instructor: Various (search for highest-viewed recent upload)
-⏱️ Duration: ~1–2 hours
-💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 100K+ (estimated for top result)
-📅 Last Updated: 2025–2026
+📌 Course Title: Claude Code in Action (Official Anthropic Course)
+🔗 Platform: Anthropic Academy (Skilljar)
+🔗 URL: https://anthropic.skilljar.com/claude-code-in-action
+👤 Instructor: Anthropic (official)
+⏱️ Duration: ~2 hours (self-paced)
+💰 Cost: Free (registration required)
+📊 Signal: First-party training from the tool's maker
+📅 Last Updated: 2026
 🎯 Mapped To: Track A → Tier 1 → Claude Code Tool Setup
-🏷️ Tags: hands-on, tool-setup, agentic-coding, terminal-based
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: official-training, hands-on, tool-setup, agentic-coding, terminal-based
+✅ Verified: Yes — official Anthropic platform (confirmed live Jul 2026)
+🔊 Accessibility: Browser-based, self-paced
 ```
 
 **Supplementary Resource:**
 ```
 📌 Course Title: The Claude Code Handbook
 🔗 Platform: freeCodeCamp
-🔗 URL: https://www.freecodecamp.org/news/the-claude-code-handbook/
-👤 Instructor: freeCodeCamp editorial
+🔗 URL: https://www.freecodecamp.org/news/claude-code-handbook/
+👤 Instructor: freeCodeCamp
 ⏱️ Duration: ~2 hours (reading + practice)
 💰 Cost: Free
 🎯 Mapped To: Track A → Tier 1 → Claude Code Deep Dive
 🏷️ Tags: reference, hands-on, professional-grade
-✅ Verified: Yes — public freeCodeCamp content
+✅ Verified: Yes — link confirmed live (Jul 2026)
 ```
+
+> **Also official (free)**: Claude Code Quickstart — https://code.claude.com/docs/en/quickstart
 
 ---
 
 ### Module 1.5 — Antigravity IDE Setup & Workflows
 
 ```
-📌 Course Title: Anthropic Claude Code 101 Course (Antigravity/Agentic IDE Concepts)
-🔗 Platform: Anthropic Skilljar
-🔗 URL: https://anthropic.skilljar.com/
-👤 Instructor: Anthropic (official)
-⏱️ Duration: ~2 hours
-💰 Cost: Free
-⭐ Rating: N/A (vendor training)
-👁️ Views / Enrollments: N/A — vendor platform
+📌 Course Title: Getting Started with Google Antigravity
+🔗 Platform: Google Codelabs (official)
+🔗 URL: https://codelabs.developers.google.com/getting-started-google-antigravity
+👤 Instructor: Google (official)
+⏱️ Duration: ~1–2 hours (hands-on codelab)
+💰 Cost: Free (public preview)
+📊 Signal: First-party setup guide for Google's agentic IDE
 📅 Last Updated: 2026
 🎯 Mapped To: Track A → Tier 1 → Antigravity/Agentic IDE Concepts
-🏷️ Tags: official-training, tool-setup, agentic-architecture
-✅ Verified: Yes — official Anthropic platform
+🏷️ Tags: official-training, tool-setup, agentic-IDE, Google-Antigravity
+✅ Verified: Yes — official Google platform (confirmed live Jul 2026)
 🔊 Accessibility: Browser-based, self-paced
 ```
+
+> ⚠️ **Correction**: Antigravity is **Google's** agentic IDE (runs Gemini and other models) — it is *not* an Anthropic/Claude product and does not require a Claude subscription. Official docs: https://antigravity.google/docs/home
 
 ---
 
 ### Module 1.6 — Prompt Engineering Fundamentals for Code Generation
 
 ```
-📌 Course Title: Prompt Engineering for Developers (Using AI Coding Tools)
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=prompt+engineering+for+coding+developers+copilot+2025
-👤 Instructor: Tech With Tim / equivalent practitioner channel
-⏱️ Duration: ~2 hours
+📌 Course Title: Prompt Engineering for GitHub Copilot Chat (Official Guide)
+🔗 Platform: GitHub Docs (official)
+🔗 URL: https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
+👤 Instructor: GitHub (official)
+⏱️ Duration: ~30 min (read + practice)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 200K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: First-party; 8 practical techniques that transfer directly to Claude Code
+📅 Last Updated: Continuously maintained
 🎯 Mapped To: Track A → Tier 1 → Prompt Engineering for Code Generation
-🏷️ Tags: practical, developer-focused, tool-level-prompting
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: practical, developer-focused, tool-level-prompting, official-docs
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based, screen-reader friendly
 ```
 
 > **Note**: This is prompt engineering for *using* coding tools (Copilot, Claude Code) — NOT API-level prompt engineering. Track D covers API-level prompt engineering.
@@ -211,19 +211,18 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 2.2 — AI-Assisted Debugging & Root Cause Analysis
 
 ```
-📌 Course Title: AI Debugging Workflows: Using Copilot & Claude Code for Root Cause Analysis
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+debugging+copilot+claude+code+root+cause+analysis+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~1–2 hours (curated playlist)
+📌 Course Title: How to Debug Code with GitHub Copilot
+🔗 Platform: GitHub Blog (official)
+🔗 URL: https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/
+👤 Instructor: GitHub (Jeimy Ruiz)
+⏱️ Duration: ~30 min (read + practice)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated per video)
-📅 Last Updated: 2025–2026
+📊 Signal: First-party /explain → /fix progressive root-cause workflow
+📅 Last Updated: Feb 2025
 🎯 Mapped To: Track A → Tier 2 → AI-Assisted Debugging
-🏷️ Tags: hands-on, practical, screen-share, debugging
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: hands-on, practical, debugging, official
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -233,7 +232,7 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ```
 📌 Course Title: Building Applications with GitHub Copilot Agent Mode
 🔗 Platform: Microsoft Learn
-🔗 URL: https://learn.microsoft.com/en-us/training/modules/building-applications-github-copilot-agent-mode/
+🔗 URL: https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/
 👤 Instructor: Microsoft (official)
 ⏱️ Duration: ~2 hours
 💰 Cost: Free
@@ -251,44 +250,42 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 2.4 — Managing AI Agent Context
 
 ```
-📌 Course Title: Custom Instructions, AGENTS.md, and AI Context Management
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=agents.md+custom+instructions+copilot+claude+code+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: AGENTS.md — Open Standard for Agent Context Files
+🔗 Platform: agents.md (official spec)
+🔗 URL: https://agents.md
+👤 Instructor: Agentic AI Foundation (Linux Foundation)
+⏱️ Duration: ~30 min (read + apply)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Tool-neutral standard used by 60k+ projects across Copilot, Claude, Cursor, Codex
+📅 Last Updated: Continuously maintained
 🎯 Mapped To: Track A → Tier 2 → Context Management (.agents/, AGENTS.md, Skills, Memory)
-🏷️ Tags: practical, configuration, project-setup
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: practical, configuration, project-setup, official-standard
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
-**Supplementary Materials:**
-- Official GitHub Copilot documentation on custom instructions
-- Official Claude Code documentation on CLAUDE.md and persistent context
-- Antigravity IDE documentation on .agents/ directory, skills, and rules
+**Supplementary Materials (all official docs):**
+- GitHub Copilot — custom instructions: https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot
+- Claude Code — CLAUDE.md & memory: https://code.claude.com/docs/en/quickstart
+- Google Antigravity — configuration & agent context: https://antigravity.google/docs/home
 
 ---
 
 ### Module 2.5 — Version Control Workflows with AI
 
 ```
-📌 Course Title: AI-Assisted Git Workflows (Commits, PRs, Changelogs)
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+git+workflows+copilot+commit+PR+changelog+2025
-👤 Instructor: Various practitioners
-⏱️ Duration: ~1 hour
+📌 Course Title: Creating a Pull Request Summary with GitHub Copilot
+🔗 Platform: GitHub Docs (official)
+🔗 URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/copilot-for-github-tasks/create-a-pr-summary
+👤 Instructor: GitHub (official)
+⏱️ Duration: ~20 min
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: First-party how-to for AI-drafted PR descriptions (pair with the commit-message docs)
+📅 Last Updated: Continuously maintained
 🎯 Mapped To: Track A → Tier 2 → Version Control with AI
-🏷️ Tags: practical, workflow, Git
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: practical, workflow, Git, official-docs
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -296,19 +293,18 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 2.6 — Critical Review & Validation of AI Output
 
 ```
-📌 Course Title: When NOT to Trust AI Code: A Developer's Guide to AI Output Validation
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=when+not+to+trust+AI+code+validation+developers+2025
-👤 Instructor: Various senior developers / security researchers
-⏱️ Duration: ~2 hours (curated playlist)
+📌 Course Title: Reviewing AI-Generated Code (When Not to Trust It)
+🔗 Platform: GitHub Docs (official tutorial)
+🔗 URL: https://docs.github.com/en/copilot/tutorials/review-ai-generated-code
+👤 Instructor: GitHub (official)
+⏱️ Duration: ~30 min
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 100K+ (estimated across playlist)
-📅 Last Updated: 2025–2026
+📊 Signal: Covers hallucinated APIs, suspicious packages, CodeQL/Dependabot security checks
+📅 Last Updated: Continuously maintained
 🎯 Mapped To: Track A → Tier 2 → Critical AI Output Review
-🏷️ Tags: practical, security, best-practices, critical-thinking
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: practical, security, best-practices, critical-thinking, official-docs
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 **Self-Study Exercise**: Take 5 AI-generated code snippets from your daily work. For each, identify:
@@ -337,19 +333,18 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 3.1 — Building & Sharing Custom AI Skills
 
 ```
-📌 Course Title: Advanced AI Coding: Custom Skills, Prompts, and Team Workflows
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=custom+AI+skills+prompts+team+copilot+claude+code+2026
-👤 Instructor: Various practitioners
-⏱️ Duration: ~3 hours (curated playlist + hands-on practice)
+📌 Course Title: Agent Skills — Building & Sharing Custom Skills
+🔗 Platform: Anthropic Docs (official)
+🔗 URL: https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
+👤 Instructor: Anthropic (official)
+⏱️ Duration: ~1 hour (read + build)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: SKILL.md authoring + explicit team/org "sharing scope" section
+📅 Last Updated: 2026
 🎯 Mapped To: Track A → Tier 3 → Custom AI Skills & Team Sharing
-🏷️ Tags: advanced, team-practices, skills-development
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: advanced, team-practices, skills-development, official-docs
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -357,41 +352,37 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 3.2 — Multi-Agent Workflows for Large Changes
 
 ```
-📌 Course Title: Orchestrating AI Agents for Large-Scale Code Refactors
-🔗 Platform: YouTube (curated micro-path + conference talks)
-🔗 URL: https://www.youtube.com/results?search_query=multi+agent+workflows+code+refactoring+large+codebase+2025
-👤 Instructor: Various (conference speakers, practitioners)
-⏱️ Duration: ~3 hours
+📌 Course Title: Orchestrating Subagents for Large-Scale Changes
+🔗 Platform: Anthropic Claude Code Docs (official)
+🔗 URL: https://code.claude.com/docs/en/sub-agents
+👤 Instructor: Anthropic (official)
+⏱️ Duration: ~1 hour (read + practice)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 20K+ (estimated, niche topic)
-📅 Last Updated: 2025–2026
+📊 Signal: Delegation, isolated context windows, parallel fan-out for multi-file refactors
+📅 Last Updated: 2026
 🎯 Mapped To: Track A → Tier 3 → Multi-Agent Workflows
-🏷️ Tags: advanced, large-scale, orchestration, niche
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: advanced, large-scale, orchestration, official-docs
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
-
-> ⚠️ **Niche topic; limited structured course options available.** Supplemented with conference talks, practitioner blog posts, and hands-on exercises.
 
 ---
 
 ### Module 3.3 — AI Security for Developers
 
 ```
-📌 Course Title: AI Security for Software Developers: Secrets, Leakage, and Supply Chain Risks
-🔗 Platform: YouTube
-🔗 URL: https://www.youtube.com/results?search_query=AI+security+developers+secrets+prompts+code+leakage+supply+chain+2025
-👤 Instructor: OWASP / security conference speakers
-⏱️ Duration: ~2 hours
+📌 Course Title: OWASP Top 10 for LLM Applications (2025)
+🔗 Platform: OWASP GenAI Security Project (official)
+🔗 URL: https://genai.owasp.org/llm-top-10/
+👤 Instructor: OWASP (community standard)
+⏱️ Duration: ~1–2 hours (reference)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 50K+ (estimated, security talks are popular)
-📅 Last Updated: 2025–2026
+📊 Signal: Industry-standard risk list — prompt injection, sensitive-info disclosure, supply chain
+📅 Last Updated: 2025 edition
 🎯 Mapped To: Track A → Tier 3 → Security Considerations
-🏷️ Tags: security, best-practices, governance
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: security, best-practices, governance, official-standard
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -399,19 +390,18 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 ### Module 3.4 — Measuring AI-Assisted Productivity
 
 ```
-📌 Course Title: Measuring Developer Productivity with AI Tools: Metrics, ROI, and Evidence
-🔗 Platform: YouTube (curated micro-path)
-🔗 URL: https://www.youtube.com/results?search_query=measuring+AI+developer+productivity+ROI+metrics+2025
-👤 Instructor: Various (GitHub, ThoughtWorks, practitioners)
-⏱️ Duration: ~2 hours
+📌 Course Title: ROI of AI-Assisted Software Development (DORA)
+🔗 Platform: DORA / Google Cloud (official research)
+🔗 URL: https://dora.dev/ai/
+👤 Instructor: DORA (DevOps Research & Assessment)
+⏱️ Duration: ~2 hours (report + framework)
 💰 Cost: Free
-⭐ Rating: N/A (YouTube)
-👁️ Views: 30K+ (estimated)
-📅 Last Updated: 2025–2026
+📊 Signal: Research-grade measurement framework + 2025 State of AI-assisted Development report
+📅 Last Updated: 2025
 🎯 Mapped To: Track A → Tier 3 → Productivity Metrics & ROI
-🏷️ Tags: metrics, ROI, management, evidence-based
-✅ Verified: Yes — public YouTube content
-🔊 Accessibility: Auto-captions available
+🏷️ Tags: metrics, ROI, evidence-based, research
+✅ Verified: Yes — link confirmed live (Jul 2026)
+🔊 Accessibility: Web-based
 ```
 
 ---
@@ -450,21 +440,21 @@ Week 13–16 → Tier 3B: Brownfield & Legacy Modernisation with AI (16–24 hrs
 | Module | Course | Platform | Duration | Cost | Tier |
 |--------|--------|----------|----------|------|------|
 | 1.1 | But what is a GPT? Visual intro to Transformers | YouTube | 1 hr | Free | 1 |
-| 1.2 | How AI Coding Assistants Actually Work | YouTube | 15 min | Free | 1 |
+| 1.2 | What is an AI Code Generator? | YouTube (IBM Technology) | 15 min | Free | 1 |
 | 1.3 | GitHub Copilot Beginner to Pro | Udemy | 12 hr | ₹499–799 | 1 |
-| 1.4 | Claude Code Full Course + Handbook | YouTube + freeCodeCamp | 3 hr | Free | 1 |
-| 1.5 | Claude Code 101 (Anthropic Official) | Anthropic Skilljar | 2 hr | Free | 1 |
-| 1.6 | Prompt Engineering for Coding | YouTube | 2 hr | Free | 1 |
+| 1.4 | Claude Code in Action + Handbook | Anthropic Academy + freeCodeCamp | 3 hr | Free | 1 |
+| 1.5 | Getting Started with Google Antigravity | Google Codelabs | 2 hr | Free | 1 |
+| 1.6 | Prompt Engineering for Copilot Chat | GitHub Docs | 2 hr | Free | 1 |
 | 2.1 | GitHub Copilot Complete Guide 2026 | Udemy | 10 hr | ₹499–799 | 2 |
-| 2.2 | AI Debugging Workflows | YouTube | 2 hr | Free | 2 |
+| 2.2 | Debugging with GitHub Copilot | GitHub Blog | 2 hr | Free | 2 |
 | 2.3 | Building Apps with Copilot Agent Mode | Microsoft Learn | 2 hr | Free | 2 |
-| 2.4 | AGENTS.md & Context Management | YouTube | 2 hr | Free | 2 |
-| 2.5 | AI-Assisted Git Workflows | YouTube | 1 hr | Free | 2 |
-| 2.6 | Critical Review of AI Output | YouTube | 2 hr | Free | 2 |
-| 3.1 | Custom AI Skills & Team Workflows | YouTube | 3 hr | Free | 3 |
-| 3.2 | Multi-Agent Workflows for Refactors | YouTube | 3 hr | Free | 3 |
-| 3.3 | AI Security for Developers | YouTube | 2 hr | Free | 3 |
-| 3.4 | Measuring AI Productivity & ROI | YouTube | 2 hr | Free | 3 |
+| 2.4 | AGENTS.md Context Standard | agents.md | 2 hr | Free | 2 |
+| 2.5 | PR Summaries with Copilot | GitHub Docs | 1 hr | Free | 2 |
+| 2.6 | Reviewing AI-Generated Code | GitHub Docs | 2 hr | Free | 2 |
+| 3.1 | Agent Skills (Build & Share) | Anthropic Docs | 3 hr | Free | 3 |
+| 3.2 | Subagents for Large Changes | Claude Code Docs | 3 hr | Free | 3 |
+| 3.3 | OWASP Top 10 for LLM Apps | OWASP | 2 hr | Free | 3 |
+| 3.4 | ROI of AI Dev (DORA) | DORA / Google Cloud | 2 hr | Free | 3 |
 | 3.5 | Team AI Coding Standards | Self-study | 4 hr | Free | 3 |
 
 **Total (Tiers 1–3)**: ~53 hours | **Free Content**: ~78% | **Paid Content**: 2 Udemy courses (~₹1,000–1,600 / $20–30 total)

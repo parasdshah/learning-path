@@ -142,11 +142,11 @@
 3. **First run**: Navigate to project directory, run `claude`
 4. **Configure**: Create `CLAUDE.md` in project root with context and conventions
 
-#### Antigravity IDE
-1. **Access**: Available as an IDE plugin/extension
-2. **Setup**: Follow installation instructions from the Antigravity documentation
-3. **Configure**: Set up `.agents/` directory with skills and rules
-4. **Key features**: Planning mode, browser tools, multi-tool orchestration
+#### Google Antigravity IDE
+1. **Access**: Google's standalone agentic IDE (macOS/Windows/Linux) — download from https://antigravity.google/
+2. **Setup**: Follow the official docs at https://antigravity.google/docs/home (or the getting-started codelab)
+3. **Configure**: Add an `AGENTS.md` for project context; connect tools via MCP
+4. **Key features**: Agent Manager, planning, browser tools, multi-agent orchestration (runs Gemini and other models — *not* a Claude/Anthropic product)
 
 ### For Track D (AI/ML Developers)
 
@@ -184,9 +184,10 @@ mlflow ui  # Start the tracking UI
 | **Multi-File Edits** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Terminal Access** | ✅ (via agent) | ✅ (native) | ✅ | ✅ | ✅ |
 | **Browser Tools** | ❌ | ❌ | ✅ | ❌ | ❌ |
-| **Context Protocol** | MCP | MCP | Skills, Rules | Custom | Custom |
-| **Model Options** | GPT-4o, Claude, Gemini | Claude models | Claude models | GPT-4o, Claude | GPT-4o, Claude |
-| **Pricing** | Free / $10 / $19 per mo | Claude subscription req | Claude subscription req | Free / $20 per mo | Free / $15 per mo |
+| **Context Protocol** | MCP | MCP | MCP / AGENTS.md | Custom | Custom |
+| **Model Options** | GPT-4o, Claude, Gemini | Claude models | Gemini 3 (+ Claude, GPT) | GPT-4o, Claude | GPT-4o, Claude |
+| **Vendor** | GitHub / Microsoft | Anthropic | **Google** | Anysphere | Codeium |
+| **Pricing** | Free / $10 / $19 per mo | Claude subscription req | Free (public preview) | Free / $20 per mo | Free / $15 per mo |
 | **Best For** | Broad IDE integration | Large codebase work | Complex multi-tool tasks | All-in-one AI IDE | Collaborative coding |
 | **Enterprise** | ✅ SOC 2, SSO | ✅ Enterprise plan | ✅ Enterprise features | ✅ Business plan | ✅ Pro plan |
 
