@@ -1,67 +1,53 @@
-# Enterprise AI-Assisted Engineering Competency Assessment (India Lending: Loan Origination & Credit Rating)
-## Track A: Developers — Annual Appraisal & SME Benchmark Questionnaire (BFSI India)
+# AI for Software Developers: Competency Assessment
+## Track A — Annual Appraisal & Technical Benchmark (Lending Engineering Team)
 
 ---
 
-### Executive Overview & Strategic Intent
+### Executive Overview
 
-As part of the Global Technology Learning & Development framework and Enterprise Engineering Performance Standards, this assessment benchmarks software engineers on **Agentic AI-Assisted Software Engineering** within mission-critical **Indian Lending Platforms (Loan Origination Systems [LOS] & Credit Rating/Decisioning)** across banks and Non-Banking Financial Companies (NBFCs / Fintechs).
+This assessment evaluates software developers on **Agentic AI-Assisted Software Development**, based directly on the 16-week training curriculum detailed in [`_outputs/02_track_a_developers.md`](file:///c:/Users/user/Projects/learning-path/_outputs/02_track_a_developers.md). 
 
-In India's hyper-scale digital lending landscape, software engineering directly powers:
-- **Loan Origination Systems (LOS)**: Digital customer onboarding, India Stack integrations (Aadhaar e-KYC / Masked Aadhaar, PAN verification via NSDL/ITD, DigiLocker, CKYC/CERSAI, Account Aggregator [AA] cashflow consent flows, Video-KYC [V-KYC]).
-- **Credit Rating & Bureau Integration**: Multi-bureau orchestration across RBI-licensed Credit Information Companies (CIBIL / TransUnion, Experian India, Equifax India, CRIF High Mark), CIR (Credit Information Report) parsing, trade-line DPD string analysis, and internal Credit Decisioning Engines (BRE / Scorecards).
-- **Underwriting & Financial Metrics**: Indian lending metrics including Fixed Obligation to Income Ratio (**FOIR**), Loan to Value (**LTV**), GSTN data analysis (GSTR-1 / 3B invoice validation for MSME), and internal risk grading models.
-- **Regulatory Mandates & Repayment**: **RBI Digital Lending Guidelines (DLG)**, mandatory **Key Fact Statement (KFS)** and Annual Percentage Rate (**APR**) disclosures, **DPDP Act 2023** (Digital Personal Data Protection), RBI Data Localisation directives, **e-NACH / NPCI UPI AutoPay** mandate registration, and **NeSL digital e-Sign**.
+While our engineering teams build and maintain products in the **lending domain** (loan origination, credit scoring, EMI calculators, repayment services), **this assessment focuses squarely on developer AI mastery**:
+- How LLMs and code models function under the hood (tokens, context windows, probabilistic generation).
+- Tool mastery across **GitHub Copilot** (Agent, Plan, and Ask modes), **Claude Code CLI**, and **Google Antigravity IDE**.
+- Effective developer prompt engineering, context management (`AGENTS.md`, `CLAUDE.md`, `.agents/`), and Model Context Protocol (MCP).
+- Agentic workflows (Plan → Execute → Verify, task decomposition, tool-calling loops).
+- AI-assisted debugging (`/explain` → `/fix`), test generation, and critical validation of AI-generated code.
+- Advanced multi-agent orchestration, custom skills (`SKILL.md`), developer security (OWASP for LLMs), and DORA productivity metrics.
 
-Developer productivity gains from Generative AI and Agentic tools (such as **GitHub Copilot**, **Claude Code**, and **Google Antigravity**) must strictly adhere to RBI regulatory compliance, data localization, zero-trust security, exact financial calculations in Indian Rupees (INR), and borrower data sovereignty. This assessment evaluates practical, real-world mastery across the 16-week curriculum detailed in [`_outputs/02_track_a_developers.md`](file:///c:/Users/user/Projects/learning-path/_outputs/02_track_a_developers.md).
-
-This evaluation is an official input into:
-1. **Yearly Performance Goals & Appraisals**: Quantitative metric for the "Engineering Excellence & AI Productivity in India Lending Systems" goal.
-2. **Technical Career Ladder Advancement**: Prerequisite for promotions to Senior Software Engineer, Technical Lead, and Principal Lending Architect.
-3. **Engineering License to Practice**: Mandatory clearance to utilize Enterprise Agentic AI tooling on Tier-1 Indian Loan Origination, Bureau Parsing, and Underwriting Decisioning repositories.
+This assessment serves as a formal input into developers' **Yearly Goals & Appraisals** to evaluate their adoption, efficiency, and safe engineering practices with AI coding tools.
 
 ---
 
-### Curriculum & Assessment Architecture
+### Assessment Structure & Module Mapping
 
-The assessment is partitioned into three progressive tiers mirroring the learning journey:
+The 60 questions are organized into three tiers reflecting the training progression:
 
-| Assessment Module | Source Tier & Curriculum | Focus Areas in Indian Lending Systems | Questions | Weightage |
+| Assessment Module | Track A Curriculum | Primary AI Coding Focus | Questions | Weight |
 |:---|:---|:---|:---:|:---:|
-| **[Module 01](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/01_tier1_foundations_and_tools_mcq.md)** | **Tier 1: Foundations & Tool Setup** (Modules 1.1–1.6) | Transformer fundamentals, capabilities/risks in Indian loan calculations (INR paise rounding, KFS APR), GitHub Copilot setup (Agent/Ask/Plan modes), Claude Code CLI in loan pipelines, Google Antigravity IDE, enterprise prompt engineering for RBI credit rules. | 20 | 25% |
-| **[Module 02](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/02_tier2_augmented_workflows_mcq.md)** | **Tier 2: AI-Augmented Workflows** (Modules 2.1–2.6) | Plan-Execute-Verify loops in LOS modernization, CIBIL/Experian bureau adapter debugging, AI test generation (FOIR/LTV boundaries, Account Aggregator consent flows), `AGENTS.md` context management, version control auditability, critical validation of AI output. | 20 | 40% |
-| **[Module 03](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/03_tier3_advanced_agentic_governance_mcq.md)** | **Tier 3: Advanced Agentic & Governance** (Modules 3.1–3.5) | Custom lending agent skills (`SKILL.md`), multi-agent subagent orchestration across loan services (Dedupe, Bureau, Underwriting, Disbursement), OWASP Top 10 for LLMs in Indian lending, DORA metrics & ROI measurement, enterprise AI coding standards & quality gates. | 20 | 35% |
-| **Total** | **Full Track A Curriculum** | **End-to-End Enterprise Agentic Mastery** | **60** | **100%** |
-
----
-
-### Indian Lending (LOS & Credit Rating) Guardrails Tested
-
-All 60 questions are contextualized within tier-1 Indian lending platforms (e.g., Digital Personal Loans, MSME Business Loans, Home Loans, Credit Scorecards, and Bureau Decision Engines). Key domain principles embedded into question scenarios include:
-
-1. **RBI Digital Lending Guidelines (DLG) & KFS**: Direct borrower account disbursement via IMPS/NEFT/RTGS (no LSP pooling accounts), Penny-Drop bank account validation, mandatory Key Fact Statement (KFS) computation, cooling-off period enforcement.
-2. **Indian Financial Precision (INR)**: Strict use of `BigDecimal` with `RoundingMode.HALF_EVEN` for INR currency, avoiding floating-point truncation on EMI calculations, broken-period interest, and GST (18%) processing fee components.
-3. **Data Sovereignty & DPDP Act 2023**: Prohibition of borrower Aadhaar numbers, PAN, CKYC KIN, bank account numbers, or Credit Bureau trade-line logs escaping into overseas LLM endpoints; compliance with RBI Data Localisation directives.
-4. **Bureau Integration & Decisioning Integrity**: Deterministic parsing of CIBIL/Experian TU-format segments (`NAME`, `ID`, `PT`, `TR`), handling DPD (Days Past Due) strings (`000`, `030`, `XXX`), FOIR calculation integrity, and credit limit allocations.
-5. **Idempotency & Concurrency**: Strict guarantees for loan application de-duplication, sanction letter generation, and disbursement triggers under high-concurrency festival peak loads.
+| **[Module 01](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/01_tier1_foundations_and_tools_mcq.md)** | **Tier 1: AI Foundations & Tool Setup** (Modules 1.1–1.6) | Transformer fundamentals for coders, tokens & embeddings, context window limits ("Lost in the Middle"), Copilot interaction modes (Agent/Ask/Plan), custom instructions, Claude Code CLI, Google Antigravity IDE, prompt engineering for code. | 20 | 25% |
+| **[Module 02](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/02_tier2_augmented_workflows_mcq.md)** | **Tier 2: AI-Augmented Workflows** (Modules 2.1–2.6) | Agentic Plan-Execute-Verify loops, task decomposition, MCP external tool queries, progressive debugging (`/explain` → `/fix`), AI test & doc generation, `AGENTS.md` context standard, PR summaries, and critical review of AI output. | 20 | 40% |
+| **[Module 03](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/03_tier3_advanced_agentic_governance_mcq.md)** | **Tier 3: Advanced Agentic & Team Practices** (Modules 3.1–3.5) | Custom agent skills (`SKILL.md`), multi-agent subagent delegation & context isolation, OWASP Top 10 for LLMs (prompt injection, package hallucination, excessive agency), DORA metrics vs. LOC vanity metrics, team standards & quality gates. | 20 | 35% |
+| **Total** | **Full Track A Curriculum** | **Comprehensive AI Competency for Developers** | **60** | **100%** |
 
 ---
 
 ### Appraisal Grading & Scoring Matrix
 
-| Aggregate Score | Competency Level | Annual Appraisal Rating | L&D / Engineering Management Action |
+$$\text{Final Score} = \left(\frac{\text{Tier 1 Score}}{20} \times 25\%\right) + \left(\frac{\text{Tier 2 Score}}{20} \times 40\%\right) + \left(\frac{\text{Tier 3 Score}}{20} \times 35\%\right)$$
+
+| Score Range | Competency Level | Annual Appraisal Rating | Engineering Action |
 |:---:|:---|:---|:---|
-| **95% – 100%** | **Distinguished SME (Tier 3+)** | **Exceeds Expectations (Top 5%)** | Eligible for AI Champion / Lending Guild Lead. Authorized to author and approve enterprise-wide India lending agent skills. |
-| **85% – 94%** | **Advanced Practitioner (Tier 2/3)** | **Exceeds Expectations** | Strong autonomous agentic developer. Recommended for high-impact LOS/BRE refactoring and architecture projects. |
-| **80% – 84%** | **Competent Developer (Baseline Pass)** | **Meets Expectations** | Minimum passing threshold per Track A benchmark. Cleared for daily AI tool usage on production Indian lending repositories. |
-| **65% – 79%** | **Developing / Incomplete** | **Needs Improvement** | Mandatory 4-week remediation targeting failed modules. Peer review required on 100% of AI-assisted commits in lending codebases. |
-| **< 65%** | **Unsatisfactory** | **Unsatisfactory** | Temporary revocation of enterprise AI tool licenses. Must retake Track A with assigned senior BFSI lending mentor. |
+| **90% – 100%** | **AI Champion / Lead SME** | **Exceeds Expectations** | Eligible for technical leadership and mentoring. Authorized to author enterprise-wide custom agent skills. |
+| **80% – 89%** | **Proficient AI Developer** | **Meets Expectations** | Official pass threshold. Certified to use agentic AI tools across production repositories autonomously. |
+| **65% – 79%** | **Developing Practitioner** | **Needs Improvement** | Remediation required on weak modules. Peer review required on AI-assisted pull requests. |
+| **< 65%** | **Unsatisfactory** | **Unsatisfactory** | Must re-take core Track A training modules and re-sit the evaluation. |
 
 ---
 
-### Assessment Navigation
+### Navigation
 
-1. **[01_tier1_foundations_and_tools_mcq.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/01_tier1_foundations_and_tools_mcq.md)**: 20 Foundational & Tool Mastery Questions in Indian Lending Systems.
-2. **[02_tier2_augmented_workflows_mcq.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/02_tier2_augmented_workflows_mcq.md)**: 20 Advanced Workflow & Code Review Questions in Loan Origination & Bureau Engineering.
-3. **[03_tier3_advanced_agentic_governance_mcq.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/03_tier3_advanced_agentic_governance_mcq.md)**: 20 Multi-Agent, Security & Governance Questions in Indian BFSI Lending.
-4. **[04_master_answer_key_and_scoring_guide.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/04_master_answer_key_and_scoring_guide.md)**: Complete answer key with exhaustive technical justifications, distractor autopsies, and managerial evaluation rubric.
+1. **[01_tier1_foundations_and_tools_mcq.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/01_tier1_foundations_and_tools_mcq.md)**: 20 Questions on AI Foundations, Copilot, Claude Code, Antigravity, and Prompting.
+2. **[02_tier2_augmented_workflows_mcq.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/02_tier2_augmented_workflows_mcq.md)**: 20 Questions on Agentic Patterns, Debugging, Testing, `AGENTS.md`, and Code Review.
+3. **[03_tier3_advanced_agentic_governance_mcq.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/03_tier3_advanced_agentic_governance_mcq.md)**: 20 Questions on Custom Skills (`SKILL.md`), Subagents, OWASP for LLMs, and DORA Metrics.
+4. **[04_master_answer_key_and_scoring_guide.md](file:///c:/Users/user/Projects/learning-path/mcq_questionnaire/04_master_answer_key_and_scoring_guide.md)**: Master Answer Key with comprehensive explanations, distractor breakdowns, and scoring guide.
